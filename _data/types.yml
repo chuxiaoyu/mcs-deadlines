@@ -1,11 +1,17 @@
 ---
-- name: Embedded Systems (General)
-  sub: ES
-- name: Timing Analysis
-  sub: TA
-- name: Computer Architecture
+- name: ALL
+  sub: ALL
+- name: Computer Architecture (CA)
   sub: CA
-- name: Low Power
-  sub: LP
-- name: Software Engineering
+- name: Distributed Systems (DS)
+  sub: DS
+- name: Software Engineering (SE)
   sub: SE
+- name: Artificial Intelligence (AI)
+  sub: AI
+- name: Performance Analysis (PA)
+  sub: PA
+- name: Cluster Computing (CC)
+  sub: CC
+- name: High Performance Computing (HPC)
+  sub: HPC
