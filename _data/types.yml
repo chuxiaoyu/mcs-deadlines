@@ -1,6 +1,4 @@
 ---
-- name: ALL
-  sub: ALL
 - name: Computer Architecture (CA)
   sub: CA
 - name: Distributed Systems (DS)

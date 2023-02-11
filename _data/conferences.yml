@@ -3,35 +3,38 @@
 
 - title: Supercomputing
   year: 2023
+  rank: 1️⃣
   id: sc2023
   link: https://sc23.supercomputing.org/
   deadline: '2023-03-30'
   timezone: Etc/GMT+12
   date:  November 14–16, 2023
   place: DENVER, CO
-  sub: [ALL,HPC]
-  note: <b>Call for Papers:</b> <a href='https://sc23.supercomputing.org/program/papers/' target="_blank" >HTML</a>.
+  sub: [HPC]
+  note: <b>Call for Papers:</b> <a href='https://sc23.supercomputing.org/program/papers/' target="_blank" >HTML</a>
 
 - title: CLUSTER
   year: 2023
+  rank: 2️⃣
   id: cluster2023
   link: https://clustercomp.org/2023/
   deadline: '2023-05-11'
   timezone: Etc/GMT+12
   date: October 31 - November 3, 2023
   place: Santa Fe, New Mexico, USA
-  sub: [ALL,DS,CC]
-  note: <b>Call for Papers:</b> <a href='https://clustercomp.org/2023/papers/' target="_blank" >HTML</a>.
+  sub: [DS,CC]
+  note: <b>Call for Papers:</b> <a href='https://clustercomp.org/2023/papers/' target="_blank" >HTML</a>
 
 - title: SIGMETRICS(Summer)
   year: 2024
+  rank: 1️⃣
   id: sigmetrics2024summer
   link: NA
   deadline: '2023-08'
   timezone: Etc/GMT+12
   date: NA
   place: NA
-  sub: [ALL,PA]
+  sub: [PA]
   note: NA
 
 
