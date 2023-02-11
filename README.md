@@ -1,6 +1,6 @@
-## ES Deadlines
+## MCS Deadlines
 
-Countdown timers to keep track of a bunch of ES conference deadlines.
+Conference deadlines for Massivizing Computer Systems(MCS) group, Vrije University Amsterdam.
 
 ## Adding/updating a conference
 
