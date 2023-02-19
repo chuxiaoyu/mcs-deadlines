@@ -1,15 +1,9 @@
 ---
-- name: Computer Architecture (CA)
-  sub: CA
 - name: Distributed Systems (DS)
   sub: DS
-- name: Software Engineering (SE)
-  sub: SE
-- name: Artificial Intelligence (AI)
-  sub: AI
-- name: Performance Analysis (PA)
-  sub: PA
-- name: Cluster Computing (CC)
-  sub: CC
+- name: Storage (ST)
+  sub: ST
+- name: Operating System (OS)
+  sub: OS
 - name: High Performance Computing (HPC)
   sub: HPC

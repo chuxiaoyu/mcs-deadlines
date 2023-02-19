@@ -25,13 +25,13 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-12">
                   <h1>
-                    {{ site.title }} 
+                    {{ site.title }}
                     <iframe src="https://ghbtns.com/github-btn.html?user={{ site.github_username }}&repo={{ site.github_repo }}&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
                   </h1>
                 </div>
-                <div class="meta col-xs-12">
-                  {{ site.description }}
-                  To add/update a conference, <a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}">send in a pull request</a>.
+                <div class="meta col-xs-12"><b style="color: #4682B4;">
+                  Conference deadlines for <a href="https://atlarge-research.com/" target="_blank">Massivizing Computer Systems(MCS)</a> Group, Vrije University Amsterdam.
+                  To add/update a conference, <a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}">send in a pull request</a>.</b>
                 </div>
             </div>
             <br>
@@ -64,7 +64,7 @@
         <div id="{{conf.id}}" class="{% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
           <div class="row">
               <div class="col-xs-12 col-sm-6">
-                  <a href="{{ "/conference" | prepend:site.baseurl }}?id={{ conf.id }}"><b>{{conf.title}} {{conf.year}}</b></a><b>  {{conf.rank}}</b>
+                  <a href="{{ "/conference" | prepend:site.baseurl }}?id={{ conf.id }}"><b>{{conf.title}} {{conf.year}}</b></a><b style="color: #4682B4;">  {{conf.tier}}</b>
                   <div class="meta">
                     {{conf.date}} // <a href="http://maps.google.com/?q={{conf.place}}">{{conf.place}}</a>
                   </div>
