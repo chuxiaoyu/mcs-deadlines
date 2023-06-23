@@ -7,3 +7,7 @@
   sub: OS
 - name: High Performance Computing (HPC)
   sub: HPC
+- name: Artificial Intelligence (AI)
+  sub: AI
+- name: Software Engineering (SE)
+  sub: SE

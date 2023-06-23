@@ -1,126 +1,6 @@
 
 ---
 
-- title: Supercomputing
-  year: 2023
-  tier: +++
-  id: sc2023
-  link: https://sc23.supercomputing.org/
-  deadline: '2023-03-30'
-  timezone: Etc/GMT+12
-  date:  November 14–16, 2023
-  place: DENVER, CO
-  sub: [DS,HPC]
-  note: <b>Call for Papers:</b> <a href='https://sc23.supercomputing.org/program/papers/' target="_blank" >HTML</a>
-
-- title: SIGMOD
-  year: 2023
-  tier: +++
-  id: sigmod2023
-  link: https://2023.sigmod.org/calls_papers_important_dates.shtml
-  deadline: '2023-04-15'
-  timezone: Etc/GMT-8
-  date:  June 18 - June 23
-  place: Seattle metropolitan area, Washington, USA
-  sub: [DS,HPC]
-  note: <b>Call for Papers:</b> <a href='https://2023.sigmod.org/calls_papers_important_dates.shtml' target="_blank" >HTML</a>
-
-- title: SOSP
-  year: 2023
-  tier: +++
-  id: sosp2023
-  link: https://sosp2023.mpi-sws.org/
-  deadline: '2023-04-17'
-  timezone: Etc/GMT-5
-  date:  October 23rd - 26th, 2023
-  place: Koblenz, Germany
-  sub: [OS,DS,ST]
-  note: <b>Call for Papers:</b> <a href='https://sosp2023.mpi-sws.org/' target="_blank" >HTML</a>
-
-- title: NSDI(Spring)
-  year: 2024
-  tier: +++
-  id: nsdi2024spring
-  link: https://www.usenix.org/conference/nsdi24/
-  deadline: '2023-05-04'
-  timezone: Etc/GMT+12
-  date:   April 16–18, 2024
-  place: Santa Clara, CA, USA
-  sub: [OS,DS,ST]
-  note: <b>Call for Papers:</b> <a href='https://www.usenix.org/conference/nsdi24/' target="_blank" >HTML</a>
-
-- title: CompSys
-  year: 2023
-  tier: +
-  id: compsys2023
-  link: https://www.compsys.science/
-  deadline: '2023-05-08'
-  timezone: Etc/GMT+12
-  date:  Jun 27-29, 2023
-  place: Soesterberg
-  sub: [DS,OS,HPC,ST]
-  note: <b>Call for Papers:</b> <a href='https://www.compsys.science/conference/current/pages/dates/' target="_blank" >HTML</a>
-
-- title: CLUSTER
-  year: 2023
-  tier: ++
-  id: cluster2023
-  link: https://clustercomp.org/2023/
-  deadline: '2023-05-11'
-  timezone: Etc/GMT+12
-  date: October 31 - November 3, 2023
-  place: Santa Fe, New Mexico, USA
-  sub: [DS,HPC]
-  note: <b>Call for Papers:</b> <a href='https://clustercomp.org/2023/papers/' target="_blank" >HTML</a>
-
-- title: EuroSys(Spring)
-  year: 2024
-  tier: +++
-  id: eurosys2024spring
-  link: TBA
-  deadline: '2023-05'
-  timezone: Etc/GMT+12
-  date: TBA
-  place: TBA
-  sub: [DS,HPC,OS,ST]
-  note: TBA
-
-- title: MIDDLEWARE(2 round)
-  year: 2023
-  tier: ++
-  id: middleware2023second
-  link: https://middleware-conf.github.io/2023/call-for-research-papers/
-  deadline: '2023-05-26'
-  timezone: Etc/GMT+12
-  date: 11th – 15th December 2023
-  place: University of Bologna, Italy
-  sub: [OS,DS,ST]
-  note: <b>Call for Papers:</b> <a href='https://middleware-conf.github.io/2023/call-for-research-papers/' target="_blank" >HTML</a>
-
-- title: SoCC
-  year: 2023
-  tier: ++
-  id: socc2023
-  link: TBA
-  deadline: '2023-06'
-  timezone: Etc/GMT+12
-  date: TBA
-  place: TBA
-  sub: [DS]
-  note: TBA
-
-- title: ASPLOS
-  year: 2024
-  tier: +++
-  id: asplos2024
-  link: TBA
-  deadline: '2023-07'
-  timezone: Etc/GMT+12
-  date: TBA
-  place: TBA
-  sub: [OS,DS,ST]
-  note: TBA
-
 - title: SIGMETRICS(Summer)
   year: 2024
   tier: +++
@@ -137,13 +17,25 @@
   year: 2024
   tier: +++
   id: hpca2024
-  link: TBA
-  deadline: '2023-08'
+  link: https://hpca-conf.org/2024/
+  deadline: '2023-08-04'
   timezone: Etc/GMT-4
-  date: TBA
-  place: TBA
+  date: October 2 – 13, 2023
+  place: Edinburgh, Scotland
   sub: [DS,HPC,OS]
-  note: TBA
+  note: <b>Call for Papers:</b> <a href='https://hpca-conf.org/2024/' target="_blank" >HTML</a>
+
+- title: ASPLOS(Summer)
+  year: 2024
+  tier: +++
+  id: asplos2024summer
+  link: https://www.asplos-conference.org/asplos2024/
+  deadline: '	2023-08-10'
+  timezone: Etc/GMT+12
+  date:  April 27-May 1, 2024
+  place:  San Diego 
+  sub: [OS,DS,ST]
+  note: <b>Call for Papers:</b> <a href='https://www.asplos-conference.org/asplos2024/' target="_blank" >HTML</a>
 
 - title: NSDI(Fall)
   year: 2024
@@ -156,6 +48,19 @@
   place: Santa Clara, CA, USA
   sub: [OS,DS,ST]
   note: <b>Call for Papers:</b> <a href='https://www.usenix.org/conference/nsdi24/' target="_blank" >HTML</a>
+
+- title: FSE
+  year: 2024
+  tier: +++
+  id: fse2024
+  link: https://conf.researchr.org/track/fse-2024/fse-2024-research-papers
+  deadline: '2023-09-28'
+  timezone: Etc/GMT+12
+  date: Mon 15 - Fri 19 July 2024
+  place: Porto de Galinas, Brazil
+  sub: [SE]
+  note: <b>Call for Papers:</b> <a href='https://conf.researchr.org/track/fse-2024/fse-2024-research-papers' target="_blank" >HTML</a>
+
 
 - title: SIGMETRICS(Fall)
   year: 2024
@@ -176,22 +81,46 @@
   link: TBA
   deadline: '2023-10'
   timezone: Etc/GMT+12
+  date: 27-31 May, 2024
+  place: San Francisco 
+  sub: [DS,HPC]
+  note: TBA
+
+- title: ICPE
+  year: 2024
+  tier: +
+  id: icpe2024
+  link: TBA
+  deadline: '2023-10'
+  timezone: Etc/GMT+12
   date: TBA
   place: TBA
   sub: [DS,HPC]
+  note: TBA
+
+- title: WWW
+  year: 2024
+  tier: +++
+  id: www2024
+  link: https://www2024.thewebconf.org/calls/research-tracks/
+  deadline: '2023-10-05'
+  timezone: Etc/GMT+12
+  date: May 13 to 17, 2024
+  place: Singapore
+  sub: [AI]
   note: TBA
 
 - title: EuroSys(Fall)
   year: 2024
   tier: +++
   id: eurosys2024fall
-  link: TBA
-  deadline: '2023-10'
+  link: https://2024.eurosys.org/cfp.html#pagetop
+  deadline: '2023-10-19'
   timezone: Etc/GMT+12
-  date: TBA
-  place: TBA
+  date: April 22nd-25th 2024
+  place: Athens, Greece
   sub: [DS,HPC,OS,ST]
-  note: TBA
+  note: <b>Call for Papers:</b> <a href='https://2024.eurosys.org/cfp.html#pagetop' target="_blank" >HTML</a>
 
 - title: MIDDLEWARE(1 round)
   year: 2024
@@ -217,6 +146,19 @@
   sub: [ST]
   note: <b>Call for Papers:</b> <a href='https://www.usenix.org/conference/fast24/call-for-papers' target="_blank" >HTML</a>
 
+
+- title: ASPLOS(Fall)
+  year: 2024
+  tier: +++
+  id: asplos2024fall
+  link: https://www.asplos-conference.org/asplos2024/cfp/
+  deadline: '	2023-11-30'
+  timezone: Etc/GMT+12
+  date:  April 27-May 1, 2024
+  place:  San Diego 
+  sub: [OS,DS,ST]
+  note:  <b>Call for Papers:</b> <a href='https://www.asplos-conference.org/asplos2024/cfp/' target="_blank" >HTML</a>
+
 - title: OSDI
   year: 2024
   tier: +++
@@ -234,7 +176,7 @@
   tier: ++
   id: ccgrid2024
   link: TBA
-  deadline: '2024-01'
+  deadline: '2023-12'
   timezone: TBA
   date: TBA
   place: TBA
