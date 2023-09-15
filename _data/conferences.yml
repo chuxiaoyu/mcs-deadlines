@@ -1,53 +1,53 @@
 
 ---
 
-- title: SIGMETRICS(Summer)
-  year: 2024
-  tier: +++
-  id: sigmetrics2024summer
-  link: TBA
-  deadline: '2023-08'
-  timezone: Etc/GMT+12
-  date: TBA
-  place: TBA
-  sub: [DS,HPC]
-  note: TBA
+# - title: SIGMETRICS(Summer)
+#   year: 2024
+#   tier: +++
+#   id: sigmetrics2024summer
+#   link: TBA
+#   deadline: '2023-08'
+#   timezone: Etc/GMT+12
+#   date: TBA
+#   place: TBA
+#   sub: [DS,HPC]
+#   note: TBA
 
-- title: HPCA
-  year: 2024
-  tier: +++
-  id: hpca2024
-  link: https://hpca-conf.org/2024/
-  deadline: '2023-08-04'
-  timezone: Etc/GMT-4
-  date: October 2 – 13, 2023
-  place: Edinburgh, Scotland
-  sub: [DS,HPC,OS]
-  note: <b>Call for Papers:</b> <a href='https://hpca-conf.org/2024/' target="_blank" >HTML</a>
+# - title: HPCA
+#   year: 2024
+#   tier: +++
+#   id: hpca2024
+#   link: https://hpca-conf.org/2024/
+#   deadline: '2023-08-04'
+#   timezone: Etc/GMT-4
+#   date: October 2 – 13, 2023
+#   place: Edinburgh, Scotland
+#   sub: [DS,HPC,OS]
+#   note: <b>Call for Papers:</b> <a href='https://hpca-conf.org/2024/' target="_blank" >HTML</a>
 
-- title: ASPLOS(Summer)
-  year: 2024
-  tier: +++
-  id: asplos2024summer
-  link: https://www.asplos-conference.org/asplos2024/
-  deadline: '	2023-08-10'
-  timezone: Etc/GMT+12
-  date:  April 27-May 1, 2024
-  place:  San Diego 
-  sub: [OS,DS,ST]
-  note: <b>Call for Papers:</b> <a href='https://www.asplos-conference.org/asplos2024/' target="_blank" >HTML</a>
+# - title: ASPLOS(Summer)
+#   year: 2024
+#   tier: +++
+#   id: asplos2024summer
+#   link: https://www.asplos-conference.org/asplos2024/
+#   deadline: '	2023-08-10'
+#   timezone: Etc/GMT+12
+#   date:  April 27-May 1, 2024
+#   place:  San Diego 
+#   sub: [OS,DS,ST]
+#   note: <b>Call for Papers:</b> <a href='https://www.asplos-conference.org/asplos2024/' target="_blank" >HTML</a>
 
-- title: NSDI(Fall)
-  year: 2024
-  tier: +++
-  id: nsdi2024fall
-  link: https://sc23.supercomputing.org/
-  deadline: '2023-09-14'
-  timezone: Etc/GMT+12
-  date: April 16–18, 2024
-  place: Santa Clara, CA, USA
-  sub: [OS,DS,ST]
-  note: <b>Call for Papers:</b> <a href='https://www.usenix.org/conference/nsdi24/' target="_blank" >HTML</a>
+# - title: NSDI(Fall)
+#   year: 2024
+#   tier: +++
+#   id: nsdi2024fall
+#   link: https://sc23.supercomputing.org/
+#   deadline: '2023-09-14'
+#   timezone: Etc/GMT+12
+#   date: April 16–18, 2024
+#   place: Santa Clara, CA, USA
+#   sub: [OS,DS,ST]
+#   note: <b>Call for Papers:</b> <a href='https://www.usenix.org/conference/nsdi24/' target="_blank" >HTML</a>
 
 - title: FSE
   year: 2024
@@ -74,29 +74,17 @@
   sub: [DS,HPC]
   note: TBA
 
-- title: IPDPS
+- title: 🎯IPDPS
   year: 2024
   tier: ++
   id: ipdps2024
-  link: TBA
-  deadline: '2023-10'
+  link: https://www.ipdps.org/ipdps2024/2024-call-for-papers.html
+  deadline: '2023-10-05'
   timezone: Etc/GMT+12
   date: 27-31 May, 2024
   place: San Francisco 
   sub: [DS,HPC]
-  note: TBA
-
-- title: ICPE
-  year: 2024
-  tier: +
-  id: icpe2024
-  link: TBA
-  deadline: '2023-10'
-  timezone: Etc/GMT+12
-  date: TBA
-  place: TBA
-  sub: [DS,HPC]
-  note: TBA
+  note: <b>Call for Papers:</b> <a href='https://www.ipdps.org/ipdps2024/2024-call-for-papers.html' target="_blank" >HTML</a>
 
 - title: WWW
   year: 2024
@@ -134,6 +122,18 @@
   sub: [OS,DS,ST]
   note: TBA
 
+- title: 🎯ICPE
+  year: 2024
+  tier: +
+  id: icpe2024
+  link: https://icpe2024.spec.org/important-dates/
+  deadline: '2023-11-03'
+  timezone: Etc/GMT+12
+  date: May 7-11
+  place: London, UK
+  sub: [DS,HPC]
+  note: b>Call for Papers:</b> <a href='https://icpe2024.spec.org/important-dates/' target="_blank" >HTML</a>
+
 - title: FAST
   year: 2024
   tier: +++
@@ -158,6 +158,18 @@
   place:  San Diego 
   sub: [OS,DS,ST]
   note:  <b>Call for Papers:</b> <a href='https://www.asplos-conference.org/asplos2024/cfp/' target="_blank" >HTML</a>
+
+- title: CAiSE
+  year: 2024
+  tier: ++
+  id: caise2024
+  link: https://cyprusconferences.org/caise2024/call-for-main/
+  deadline: '2023-12-01'
+  timezone: Etc/GMT+12
+  date: June 3-7
+  place: Limassol, Cyprus
+  sub: [DS,HPC,SE]
+  note: b>Call for Papers:</b> <a href='https://cyprusconferences.org/caise2024/call-for-main/' target="_blank" >HTML</a>
 
 - title: OSDI
   year: 2024
