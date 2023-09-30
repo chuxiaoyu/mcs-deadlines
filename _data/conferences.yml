@@ -49,17 +49,17 @@
 #   sub: [OS,DS,ST]
 #   note: <b>Call for Papers:</b> <a href='https://www.usenix.org/conference/nsdi24/' target="_blank" >HTML</a>
 
-- title: FSE
-  year: 2024
-  tier: +++
-  id: fse2024
-  link: https://conf.researchr.org/track/fse-2024/fse-2024-research-papers
-  deadline: '2023-09-28'
-  timezone: Etc/GMT+12
-  date: Mon 15 - Fri 19 July 2024
-  place: Porto de Galinas, Brazil
-  sub: [SE]
-  note: <b>Call for Papers:</b> <a href='https://conf.researchr.org/track/fse-2024/fse-2024-research-papers' target="_blank" >HTML</a>
+# - title: FSE
+#   year: 2024
+#   tier: +++
+#   id: fse2024
+#   link: https://conf.researchr.org/track/fse-2024/fse-2024-research-papers
+#   deadline: '2023-09-28'
+#   timezone: Etc/GMT+12
+#   date: Mon 15 - Fri 19 July 2024
+#   place: Porto de Galinas, Brazil
+#   sub: [SE]
+#   note: <b>Call for Papers:</b> <a href='https://conf.researchr.org/track/fse-2024/fse-2024-research-papers' target="_blank" >HTML</a>
 
 
 - title: SIGMETRICS(Fall)
@@ -169,7 +169,7 @@
   date: June 3-7
   place: Limassol, Cyprus
   sub: [DS,HPC,SE]
-  note: b>Call for Papers:</b> <a href='https://cyprusconferences.org/caise2024/call-for-main/' target="_blank" >HTML</a>
+  note: <b>Call for Papers:</b> <a href='https://cyprusconferences.org/caise2024/call-for-main/' target="_blank" >HTML</a>
 
 - title: OSDI
   year: 2024
@@ -194,6 +194,90 @@
   place: TBA
   sub: [OS,DS,ST,HPC]
   note: TBA
+
+- title: ICDCS
+  year: 2024
+  tier: ++
+  id: icdcs2024
+  link: https://icdcs2024.icdcs.org/
+  deadline: '2024-01'
+  timezone: TBA
+  date: TBA
+  place: New Jersey
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://icdcs2024.icdcs.org/' target="_blank" >HTML</a>
+
+- title: CF
+  year: 2024
+  tier: +
+  id: cf2024
+  link: https://www.computingfrontiers.org/2024/
+  deadline: '2024-01'
+  timezone: TBA
+  date: May7-9, 2024
+  place: Ischia, Italy
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://www.computingfrontiers.org/2024/' target="_blank" >HTML</a>
+
+- title: ICS
+  year: 2024
+  tier: ++
+  id: ics2024
+  link: https://ics2024.github.io/
+  deadline: '2024-01'
+  timezone: TBA
+  date: June 4-7, 2024
+  place: Kyoto, Japan
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://ics2024.github.io/' target="_blank" >HTML</a>
+
+- title: Europar
+  year: 2024
+  tier: ++
+  id: europar2024
+  link: TBA
+  deadline: '2024-02'
+  timezone: TBA
+  date: TBA
+  place: TBA
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='TBA' target="_blank" >HTML</a>
+
+- title: KR
+  year: 2024
+  tier: ++
+  id: kr2024
+  link: TBA
+  deadline: "2024-03"
+  timezone: TBA
+  date: TBA
+  place: TBA
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='TBA' target="_blank" >HTML</a>
+
+- title: MODA(WS)
+  year: 2024
+  tier: +
+  id: moda2024
+  link:  https://moda.dmi.unibas.ch/
+  deadline: "2024-03"
+  timezone: TBA
+  date: TBA
+  place: Hamburg, Germany
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='  https://moda.dmi.unibas.ch/' target="_blank" >HTML</a>
+
+- title: SC
+  year: 2024
+  tier: +++
+  id: sc2024
+  link: TBA
+  deadline: "2024-04"
+  timezone: TBA
+  date: TBA
+  place: TBA
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='TBA' target="_blank" >HTML</a>
 
 # TEMPLETE to add a conference
 # - title: 
