@@ -62,89 +62,89 @@
 #   note: <b>Call for Papers:</b> <a href='https://conf.researchr.org/track/fse-2024/fse-2024-research-papers' target="_blank" >HTML</a>
 
 
-- title: SIGMETRICS(Fall)
-  year: 2024
-  tier: +++
-  id: sigmetrics2024fall
-  link: TBA
-  deadline: '2023-10'
-  timezone: Etc/GMT+12
-  date: TBA
-  place: TBA
-  sub: [DS,HPC]
-  note: TBA
+# - title: SIGMETRICS(Fall)
+#   year: 2024
+#   tier: +++
+#   id: sigmetrics2024fall
+#   link: TBA
+#   deadline: '2023-10'
+#   timezone: Etc/GMT+12
+#   date: TBA
+#   place: TBA
+#   sub: [DS,HPC]
+#   note: TBA
 
-- title: 🎯IPDPS
-  year: 2024
-  tier: ++
-  id: ipdps2024
-  link: https://www.ipdps.org/ipdps2024/2024-call-for-papers.html
-  deadline: '2023-10-05'
-  timezone: Etc/GMT+12
-  date: 27-31 May, 2024
-  place: San Francisco 
-  sub: [DS,HPC]
-  note: <b>Call for Papers:</b> <a href='https://www.ipdps.org/ipdps2024/2024-call-for-papers.html' target="_blank" >HTML</a>
+# - title: 🎯IPDPS
+#   year: 2024
+#   tier: ++
+#   id: ipdps2024
+#   link: https://www.ipdps.org/ipdps2024/2024-call-for-papers.html
+#   deadline: '2023-10-05'
+#   timezone: Etc/GMT+12
+#   date: 27-31 May, 2024
+#   place: San Francisco 
+#   sub: [DS,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://www.ipdps.org/ipdps2024/2024-call-for-papers.html' target="_blank" >HTML</a>
 
-- title: WWW
-  year: 2024
-  tier: +++
-  id: www2024
-  link: https://www2024.thewebconf.org/calls/research-tracks/
-  deadline: '2023-10-05'
-  timezone: Etc/GMT+12
-  date: May 13 to 17, 2024
-  place: Singapore
-  sub: [AI]
-  note: TBA
+# - title: WWW
+#   year: 2024
+#   tier: +++
+#   id: www2024
+#   link: https://www2024.thewebconf.org/calls/research-tracks/
+#   deadline: '2023-10-05'
+#   timezone: Etc/GMT+12
+#   date: May 13 to 17, 2024
+#   place: Singapore
+#   sub: [AI]
+#   note: TBA
 
-- title: EuroSys(Fall)
-  year: 2024
-  tier: +++
-  id: eurosys2024fall
-  link: https://2024.eurosys.org/cfp.html#pagetop
-  deadline: '2023-10-19'
-  timezone: Etc/GMT+12
-  date: April 22nd-25th 2024
-  place: Athens, Greece
-  sub: [DS,HPC,OS,ST]
-  note: <b>Call for Papers:</b> <a href='https://2024.eurosys.org/cfp.html#pagetop' target="_blank" >HTML</a>
+# - title: EuroSys(Fall)
+#   year: 2024
+#   tier: +++
+#   id: eurosys2024fall
+#   link: https://2024.eurosys.org/cfp.html#pagetop
+#   deadline: '2023-10-19'
+#   timezone: Etc/GMT+12
+#   date: April 22nd-25th 2024
+#   place: Athens, Greece
+#   sub: [DS,HPC,OS,ST]
+#   note: <b>Call for Papers:</b> <a href='https://2024.eurosys.org/cfp.html#pagetop' target="_blank" >HTML</a>
 
-- title: MIDDLEWARE(1 round)
-  year: 2024
-  tier: ++
-  id: middleware2024first
-  link: TBA
-  deadline: '2023-11-01'
-  timezone: TBA
-  date: TBA
-  place: TBA
-  sub: [OS,DS,ST]
-  note: TBA
+# - title: MIDDLEWARE(1 round)
+#   year: 2024
+#   tier: ++
+#   id: middleware2024first
+#   link: TBA
+#   deadline: '2023-11-01'
+#   timezone: TBA
+#   date: TBA
+#   place: TBA
+#   sub: [OS,DS,ST]
+#   note: TBA
 
-- title: 🎯ICPE
-  year: 2024
-  tier: +
-  id: icpe2024
-  link: https://icpe2024.spec.org/important-dates/
-  deadline: '2023-11-03'
-  timezone: Etc/GMT+12
-  date: May 7-11
-  place: London, UK
-  sub: [DS,HPC]
-  note: b>Call for Papers:</b> <a href='https://icpe2024.spec.org/important-dates/' target="_blank" >HTML</a>
+# - title: 🎯ICPE
+#   year: 2024
+#   tier: +
+#   id: icpe2024
+#   link: https://icpe2024.spec.org/important-dates/
+#   deadline: '2023-11-03'
+#   timezone: Etc/GMT+12
+#   date: May 7-11
+#   place: London, UK
+#   sub: [DS,HPC]
+#   note: b>Call for Papers:</b> <a href='https://icpe2024.spec.org/important-dates/' target="_blank" >HTML</a>
 
-- title: FAST
-  year: 2024
-  tier: +++
-  id: fast2024
-  link: https://www.usenix.org/conference/fast24/call-for-papers
-  deadline: '2023-11-21'
-  timezone: Etc/GMT-4
-  date: February 26–29, 2024
-  place: Santa Clara, CA, USA
-  sub: [ST]
-  note: <b>Call for Papers:</b> <a href='https://www.usenix.org/conference/fast24/call-for-papers' target="_blank" >HTML</a>
+# - title: FAST
+#   year: 2024
+#   tier: +++
+#   id: fast2024
+#   link: https://www.usenix.org/conference/fast24/call-for-papers
+#   deadline: '2023-11-21'
+#   timezone: Etc/GMT-4
+#   date: February 26–29, 2024
+#   place: Santa Clara, CA, USA
+#   sub: [ST]
+#   note: <b>Call for Papers:</b> <a href='https://www.usenix.org/conference/fast24/call-for-papers' target="_blank" >HTML</a>
 
 
 - title: ASPLOS(Fall)
@@ -185,34 +185,22 @@
 
 - title: CCGRID
   year: 2024
-  tier: ++
+  tier: +
   id: ccgrid2024
-  link: TBA
-  deadline: '2023-12'
+  link: https://2024.ccgrid-conference.org/important-dates/
+  deadline: '2023-11-27'
   timezone: TBA
-  date: TBA
-  place: TBA
+  date: May 6-9, 2024
+  place: Philadelphia
   sub: [OS,DS,ST,HPC]
-  note: TBA
-
-- title: ICDCS
-  year: 2024
-  tier: ++
-  id: icdcs2024
-  link: https://icdcs2024.icdcs.org/
-  deadline: '2024-01'
-  timezone: TBA
-  date: TBA
-  place: New Jersey
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://icdcs2024.icdcs.org/' target="_blank" >HTML</a>
+  note: <b>Call for Papers:</b> <a href='https://2024.ccgrid-conference.org/important-dates/' target="_blank" >HTML</a>
 
 - title: CF
   year: 2024
   tier: +
   id: cf2024
   link: https://www.computingfrontiers.org/2024/
-  deadline: '2024-01'
+  deadline: '2024-01-08'
   timezone: TBA
   date: May7-9, 2024
   place: Ischia, Italy
@@ -224,24 +212,60 @@
   tier: ++
   id: ics2024
   link: https://ics2024.github.io/
-  deadline: '2024-01'
+  deadline: '2024-01-11'
   timezone: TBA
   date: June 4-7, 2024
   place: Kyoto, Japan
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://ics2024.github.io/' target="_blank" >HTML</a>
 
-- title: Europar
+- title: ICDCS
+  year: 2024
+  tier: ++
+  id: icdcs2024
+  link: https://icdcs2024.icdcs.org/
+  deadline: '2024-01-12'
+  timezone: TBA
+  date: 16 July - 19 July
+  place: New Jersey
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://icdcs2024.icdcs.org/' target="_blank" >HTML</a>
+
+- title: Euro-Par
   year: 2024
   tier: ++
   id: europar2024
-  link: TBA
-  deadline: '2024-02'
+  link: https://2024.euro-par.org/
+  deadline: '2024-03-05'
   timezone: TBA
-  date: TBA
-  place: TBA
+  date: 26-30 August 2024
+  place: Madrid, Spain
   sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='TBA' target="_blank" >HTML</a>
+  note: <b>Call for Papers:</b> <a href='https://2024.euro-par.org/' target="_blank" >HTML</a>
+
+- title: EuroMLSys(Workshop)
+  year: 2024
+  tier: +
+  id: euromlsys2024
+  link: https://euromlsys.eu/#
+  deadline: '2024-03-12'
+  timezone: TBA
+  date: May 8th 2023
+  place: Rome, Italy
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://euromlsys.eu/#' target="_blank" >HTML</a>
+
+- title: ECML-PKDD
+  year: 2024
+  tier: ++
+  id: ecmlpkdd2024
+  link: https://2024.ecmlpkdd.org/submissions/key-dates-and-deadlines
+  deadline: '2024-03-15'
+  timezone: TBA
+  date: September 9-13
+  place: Vilnius
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://2024.ecmlpkdd.org/submissions/key-dates-and-deadlines' target="_blank" >HTML</a>
 
 - title: KR
   year: 2024
@@ -255,7 +279,7 @@
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='TBA' target="_blank" >HTML</a>
 
-- title: MODA(WS)
+- title: MODA(Workshop)
   year: 2024
   tier: +
   id: moda2024
@@ -271,13 +295,28 @@
   year: 2024
   tier: +++
   id: sc2024
-  link: TBA
+  link: https://sc24.supercomputing.org/
   deadline: "2024-04"
   timezone: TBA
-  date: TBA
-  place: TBA
+  date: NOV 17–22
+  place: ATLANTA, GA
   sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='TBA' target="_blank" >HTML</a>
+  note: <b>Call for Papers:</b> <a href='https://sc24.supercomputing.org/' target="_blank" >HTML</a>
+
+- title: IC2E
+  year: 2024
+  tier: +
+  id: ic2e2024
+  link: https://conferences.computer.org/IC2E/2024/cfp-main.html
+  deadline: "2024-04-12"
+  timezone: TBA
+  date: September 24-27, 2024
+  place: Paphos, Cyprus
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://conferences.computer.org/IC2E/2024/cfp-main.html' target="_blank" >HTML</a>
+
+
+
 
 # TEMPLETE to add a conference
 # - title: 
@@ -290,4 +329,4 @@
 #   date: 
 #   place: 
 #   sub: 
-#   note: 
+#   note: <b>Call for Papers:</b> <a href='TBA' target="_blank" >HTML</a>
