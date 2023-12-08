@@ -147,53 +147,53 @@
 #   note: <b>Call for Papers:</b> <a href='https://www.usenix.org/conference/fast24/call-for-papers' target="_blank" >HTML</a>
 
 
-- title: ASPLOS(Fall)
-  year: 2024
-  tier: +++
-  id: asplos2024fall
-  link: https://www.asplos-conference.org/asplos2024/cfp/
-  deadline: '	2023-11-30'
-  timezone: Etc/GMT+12
-  date:  April 27-May 1, 2024
-  place:  San Diego 
-  sub: [OS,DS,ST]
-  note:  <b>Call for Papers:</b> <a href='https://www.asplos-conference.org/asplos2024/cfp/' target="_blank" >HTML</a>
+# - title: ASPLOS(Fall)
+#   year: 2024
+#   tier: +++
+#   id: asplos2024fall
+#   link: https://www.asplos-conference.org/asplos2024/cfp/
+#   deadline: '	2023-11-30'
+#   timezone: Etc/GMT+12
+#   date:  April 27-May 1, 2024
+#   place:  San Diego 
+#   sub: [OS,DS,ST]
+#   note:  <b>Call for Papers:</b> <a href='https://www.asplos-conference.org/asplos2024/cfp/' target="_blank" >HTML</a>
 
-- title: CAiSE
-  year: 2024
-  tier: ++
-  id: caise2024
-  link: https://cyprusconferences.org/caise2024/call-for-main/
-  deadline: '2023-12-01'
-  timezone: Etc/GMT+12
-  date: June 3-7
-  place: Limassol, Cyprus
-  sub: [DS,HPC,SE]
-  note: <b>Call for Papers:</b> <a href='https://cyprusconferences.org/caise2024/call-for-main/' target="_blank" >HTML</a>
+# - title: CAiSE
+#   year: 2024
+#   tier: ++
+#   id: caise2024
+#   link: https://cyprusconferences.org/caise2024/call-for-main/
+#   deadline: '2023-12-01'
+#   timezone: Etc/GMT+12
+#   date: June 3-7
+#   place: Limassol, Cyprus
+#   sub: [DS,HPC,SE]
+#   note: <b>Call for Papers:</b> <a href='https://cyprusconferences.org/caise2024/call-for-main/' target="_blank" >HTML</a>
 
-- title: OSDI
-  year: 2024
-  tier: +++
-  id: osdi2024
-  link: TBA
-  deadline: '2023-12-01'
-  timezone: TBA
-  date: July 10, 2024–July 12, 2024
-  place: Santa Clara, CA, USA
-  sub: [OS,DS,ST]
-  note: TBA
+# - title: OSDI
+#   year: 2024
+#   tier: +++
+#   id: osdi2024
+#   link: TBA
+#   deadline: '2023-12-01'
+#   timezone: TBA
+#   date: July 10, 2024–July 12, 2024
+#   place: Santa Clara, CA, USA
+#   sub: [OS,DS,ST]
+#   note: TBA
 
-- title: CCGRID
-  year: 2024
-  tier: +
-  id: ccgrid2024
-  link: https://2024.ccgrid-conference.org/important-dates/
-  deadline: '2023-11-27'
-  timezone: TBA
-  date: May 6-9, 2024
-  place: Philadelphia
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://2024.ccgrid-conference.org/important-dates/' target="_blank" >HTML</a>
+# - title: CCGRID
+#   year: 2024
+#   tier: +
+#   id: ccgrid2024
+#   link: https://2024.ccgrid-conference.org/important-dates/
+#   deadline: '2023-11-27'
+#   timezone: TBA
+#   date: May 6-9, 2024
+#   place: Philadelphia
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://2024.ccgrid-conference.org/important-dates/' target="_blank" >HTML</a>
 
 - title: CF
   year: 2024
@@ -230,6 +230,42 @@
   place: New Jersey
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://icdcs2024.icdcs.org/' target="_blank" >HTML</a>
+
+- title: GraphSys(Workshop)
+  year: 2024
+  tier: +
+  id: graphsys2024
+  link:  https://sites.google.com/view/graphsys24/call-for-papers
+  deadline: "2024-01-22"
+  timezone: Etc/GMT+12
+  date: May 7-11
+  place: London, UK
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://sites.google.com/view/graphsys24/call-for-papers' target="_blank" >HTML</a>
+
+- title: AIPerf(Workshop)
+  year: 2024
+  tier: +
+  id: aiperf2024
+  link:  https://ai-perf.github.io/AIPerf2024/
+  deadline: "2024-01-26"
+  timezone: Etc/GMT+12
+  date: May 7-11
+  place: London, UK
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://ai-perf.github.io/AIPerf2024/' target="_blank" >HTML</a>
+
+- title: HotCloudPerf(Workshop)
+  year: 2024
+  tier: +
+  id: hotcloudperf2024
+  link: https://hotcloudperf.spec.org/
+  deadline: "2024-02-01"
+  timezone: Etc/GMT+12
+  date: May 7-11
+  place: London, UK
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://hotcloudperf.spec.org/' target="_blank" >HTML</a>
 
 - title: Euro-Par
   year: 2024
