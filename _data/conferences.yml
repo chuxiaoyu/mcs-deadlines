@@ -152,7 +152,7 @@
 #   tier: +++
 #   id: asplos2024fall
 #   link: https://www.asplos-conference.org/asplos2024/cfp/
-#   deadline: '	2023-11-30'
+#   deadline: '2023-11-30'
 #   timezone: Etc/GMT+12
 #   date:  April 27-May 1, 2024
 #   place:  San Diego 
@@ -231,7 +231,19 @@
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://icdcs2024.icdcs.org/' target="_blank" >HTML</a>
 
-- title: GraphSys(Workshop)
+- title: ICT.OPEN(WS)
+  year: 2024
+  tier: +
+  id: ictopen2024
+  link: https://www.ictopen.nl/call-for-abstracts-nwo-ictopen2024
+  deadline: "2024-01-16"
+  timezone: Etc/GMT+12
+  date: 10 & 11 April
+  place: Jaarbeurs Utrecht
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://www.ictopen.nl/call-for-abstracts-nwo-ictopen2024' target="_blank" >HTML</a>
+
+- title: 🎯GraphSys(Workshop)
   year: 2024
   tier: +
   id: graphsys2024
@@ -243,7 +255,7 @@
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://sites.google.com/view/graphsys24/call-for-papers' target="_blank" >HTML</a>
 
-- title: AIPerf(Workshop)
+- title: 🎯AIPerf(Workshop)
   year: 2024
   tier: +
   id: aiperf2024
@@ -255,7 +267,7 @@
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://ai-perf.github.io/AIPerf2024/' target="_blank" >HTML</a>
 
-- title: HotCloudPerf(Workshop)
+- title: 🎯HotCloudPerf(Workshop)
   year: 2024
   tier: +
   id: hotcloudperf2024
