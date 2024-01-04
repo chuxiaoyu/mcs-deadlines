@@ -1,6 +1,230 @@
 
 ---
 
+# TEMPLETE to add a conference
+# - title: 
+#   tier: 
+#   year: 
+#   id: 
+#   link: 
+#   deadline: 
+#   timezone: 
+#   date: 
+#   place: 
+#   sub: 
+#   note: <b>Call for Papers:</b> <a href='TBA' target="_blank" >HTML</a>
+
+- title: CF
+  year: 2024
+  tier: +
+  id: cf2024
+  link: https://www.computingfrontiers.org/2024/
+  deadline: '2024-01-08'
+  timezone: TBA
+  date: May7-9, 2024
+  place: Ischia, Italy
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://www.computingfrontiers.org/2024/' target="_blank" >HTML</a>
+
+- title: ICS
+  year: 2024
+  tier: ++
+  id: ics2024
+  link: https://ics2024.github.io/
+  deadline: '2024-01-11'
+  timezone: TBA
+  date: June 4-7, 2024
+  place: Kyoto, Japan
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://ics2024.github.io/' target="_blank" >HTML</a>
+
+- title: ICDCS
+  year: 2024
+  tier: ++
+  id: icdcs2024
+  link: https://icdcs2024.icdcs.org/
+  deadline: '2024-01-12'
+  timezone: TBA
+  date: 16 July - 19 July
+  place: New Jersey
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://icdcs2024.icdcs.org/' target="_blank" >HTML</a>
+
+- title: ICT.OPEN(WS)
+  year: 2024
+  tier: +
+  id: ictopen2024
+  link: https://www.ictopen.nl/call-for-abstracts-nwo-ictopen2024
+  deadline: "2024-01-16"
+  timezone: Etc/GMT+12
+  date: 10 & 11 April
+  place: Jaarbeurs Utrecht
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://www.ictopen.nl/call-for-abstracts-nwo-ictopen2024' target="_blank" >HTML</a>
+
+- title: 🎯GraphSys(Workshop)
+  year: 2024
+  tier: +
+  id: graphsys2024
+  link:  https://sites.google.com/view/graphsys24/call-for-papers
+  deadline: "2024-01-22"
+  timezone: Etc/GMT+12
+  date: May 7-11
+  place: London, UK
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://sites.google.com/view/graphsys24/call-for-papers' target="_blank" >HTML</a>
+
+- title: AIPerf(Workshop)
+  year: 2024
+  tier: +
+  id: aiperf2024
+  link:  https://ai-perf.github.io/AIPerf2024/
+  deadline: "2024-01-26"
+  timezone: Etc/GMT+12
+  date: May 7-11
+  place: London, UK
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://ai-perf.github.io/AIPerf2024/' target="_blank" >HTML</a>
+
+- title: HotCloudPerf(Workshop)
+  year: 2024
+  tier: +
+  id: hotcloudperf2024
+  link: https://hotcloudperf.spec.org/
+  deadline: "2024-02-01"
+  timezone: Etc/GMT+12
+  date: May 7-11
+  place: London, UK
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://hotcloudperf.spec.org/' target="_blank" >HTML</a>
+
+- title: 🎯MODA(Workshop)
+  year: 2024
+  tier: +
+  id: moda2024
+  link:  https://moda.dmi.unibas.ch/
+  deadline: "2024-03-01"
+  timezone: TBA
+  date: May 16
+  place: Hamburg, Germany
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='  https://moda.dmi.unibas.ch/' target="_blank" >HTML</a>
+
+- title: 🎯Euro-Par
+  year: 2024
+  tier: ++
+  id: europar2024
+  link: https://2024.euro-par.org/
+  deadline: '2024-03-05'
+  timezone: TBA
+  date: 26-30 August 2024
+  place: Madrid, Spain
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://2024.euro-par.org/' target="_blank" >HTML</a>
+
+- title: EuroMLSys(Workshop)
+  year: 2024
+  tier: +
+  id: euromlsys2024
+  link: https://euromlsys.eu/#
+  deadline: '2024-03-12'
+  timezone: TBA
+  date: May 8th 2023
+  place: Rome, Italy
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://euromlsys.eu/#' target="_blank" >HTML</a>
+
+- title: ECML-PKDD
+  year: 2024
+  tier: ++
+  id: ecmlpkdd2024
+  link: https://2024.ecmlpkdd.org/submissions/key-dates-and-deadlines
+  deadline: '2024-03-15'
+  timezone: TBA
+  date: September 9-13
+  place: Vilnius
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://2024.ecmlpkdd.org/submissions/key-dates-and-deadlines' target="_blank" >HTML</a>
+
+- title: 🎯IEEE Cloud
+  year: 2024
+  tier: +
+  id: ieeecloud2024
+  link: https://cloud.conferences.computer.org/2024/call-for-papers/
+  deadline: '2024-03-17'
+  timezone: TBA
+  date: "Summer 2024"
+  place: Shenzhen, China
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://cloud.conferences.computer.org/2024/call-for-papers/' target="_blank" >HTML</a>
+
+- title: SC
+  year: 2024
+  tier: +++
+  id: sc2024
+  link: https://sc24.supercomputing.org/
+  deadline: "2024-04-02"
+  timezone: TBA
+  date: NOV 17–22
+  place: ATLANTA, GA
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://sc24.supercomputing.org/' target="_blank" >HTML</a>
+
+- title: IC2E
+  year: 2024
+  tier: +
+  id: ic2e2024
+  link: https://conferences.computer.org/IC2E/2024/cfp-main.html
+  deadline: "2024-04-12"
+  timezone: TBA
+  date: September 24-27, 2024
+  place: Paphos, Cyprus
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://conferences.computer.org/IC2E/2024/cfp-main.html' target="_blank" >HTML</a>
+
+- title: 🎯ICPP
+  year: 2024
+  tier: ++
+  id: icpp2024
+  link: https://icpp2024.org/
+  deadline: "2024-04-15"
+  timezone: TBA
+  date: August 12-15, 2024
+  place: Gotland, Sweden
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://icpp2024.org/' target="_blank" >HTML</a>
+
+- title: KR
+  year: 2024
+  tier: ++
+  id: kr2024
+  link: https://kr.org/KR2024/
+  deadline: "2024-05-01"
+  timezone: TBA
+  date: November 2-8, 2024
+  place: Hanoi, Vietnam
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://kr.org/KR2024/' target="_blank" >HTML</a>
+
+- title: 🎯IEEE Cluster
+  year: 2024
+  tier: ++
+  id: ieeecluster2024
+  link: 
+  deadline: "2024-05-01"
+  timezone: TBA
+  date: Sep. 17 - 20, 2024
+  place: Kobe, Japan
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='' target="_blank" >HTML</a>
+
+
+
+
+
+
+
+
 # - title: SIGMETRICS(Summer)
 #   year: 2024
 #   tier: +++
@@ -30,7 +254,7 @@
 #   tier: +++
 #   id: asplos2024summer
 #   link: https://www.asplos-conference.org/asplos2024/
-#   deadline: '	2023-08-10'
+#   deadline: '2023-08-10'
 #   timezone: Etc/GMT+12
 #   date:  April 27-May 1, 2024
 #   place:  San Diego 
@@ -194,187 +418,3 @@
 #   place: Philadelphia
 #   sub: [OS,DS,ST,HPC]
 #   note: <b>Call for Papers:</b> <a href='https://2024.ccgrid-conference.org/important-dates/' target="_blank" >HTML</a>
-
-- title: CF
-  year: 2024
-  tier: +
-  id: cf2024
-  link: https://www.computingfrontiers.org/2024/
-  deadline: '2024-01-08'
-  timezone: TBA
-  date: May7-9, 2024
-  place: Ischia, Italy
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://www.computingfrontiers.org/2024/' target="_blank" >HTML</a>
-
-- title: ICS
-  year: 2024
-  tier: ++
-  id: ics2024
-  link: https://ics2024.github.io/
-  deadline: '2024-01-11'
-  timezone: TBA
-  date: June 4-7, 2024
-  place: Kyoto, Japan
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://ics2024.github.io/' target="_blank" >HTML</a>
-
-- title: ICDCS
-  year: 2024
-  tier: ++
-  id: icdcs2024
-  link: https://icdcs2024.icdcs.org/
-  deadline: '2024-01-12'
-  timezone: TBA
-  date: 16 July - 19 July
-  place: New Jersey
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://icdcs2024.icdcs.org/' target="_blank" >HTML</a>
-
-- title: ICT.OPEN(WS)
-  year: 2024
-  tier: +
-  id: ictopen2024
-  link: https://www.ictopen.nl/call-for-abstracts-nwo-ictopen2024
-  deadline: "2024-01-16"
-  timezone: Etc/GMT+12
-  date: 10 & 11 April
-  place: Jaarbeurs Utrecht
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://www.ictopen.nl/call-for-abstracts-nwo-ictopen2024' target="_blank" >HTML</a>
-
-- title: 🎯GraphSys(Workshop)
-  year: 2024
-  tier: +
-  id: graphsys2024
-  link:  https://sites.google.com/view/graphsys24/call-for-papers
-  deadline: "2024-01-22"
-  timezone: Etc/GMT+12
-  date: May 7-11
-  place: London, UK
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://sites.google.com/view/graphsys24/call-for-papers' target="_blank" >HTML</a>
-
-- title: 🎯AIPerf(Workshop)
-  year: 2024
-  tier: +
-  id: aiperf2024
-  link:  https://ai-perf.github.io/AIPerf2024/
-  deadline: "2024-01-26"
-  timezone: Etc/GMT+12
-  date: May 7-11
-  place: London, UK
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://ai-perf.github.io/AIPerf2024/' target="_blank" >HTML</a>
-
-- title: 🎯HotCloudPerf(Workshop)
-  year: 2024
-  tier: +
-  id: hotcloudperf2024
-  link: https://hotcloudperf.spec.org/
-  deadline: "2024-02-01"
-  timezone: Etc/GMT+12
-  date: May 7-11
-  place: London, UK
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://hotcloudperf.spec.org/' target="_blank" >HTML</a>
-
-- title: Euro-Par
-  year: 2024
-  tier: ++
-  id: europar2024
-  link: https://2024.euro-par.org/
-  deadline: '2024-03-05'
-  timezone: TBA
-  date: 26-30 August 2024
-  place: Madrid, Spain
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://2024.euro-par.org/' target="_blank" >HTML</a>
-
-- title: EuroMLSys(Workshop)
-  year: 2024
-  tier: +
-  id: euromlsys2024
-  link: https://euromlsys.eu/#
-  deadline: '2024-03-12'
-  timezone: TBA
-  date: May 8th 2023
-  place: Rome, Italy
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://euromlsys.eu/#' target="_blank" >HTML</a>
-
-- title: ECML-PKDD
-  year: 2024
-  tier: ++
-  id: ecmlpkdd2024
-  link: https://2024.ecmlpkdd.org/submissions/key-dates-and-deadlines
-  deadline: '2024-03-15'
-  timezone: TBA
-  date: September 9-13
-  place: Vilnius
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://2024.ecmlpkdd.org/submissions/key-dates-and-deadlines' target="_blank" >HTML</a>
-
-- title: KR
-  year: 2024
-  tier: ++
-  id: kr2024
-  link: TBA
-  deadline: "2024-03"
-  timezone: TBA
-  date: TBA
-  place: TBA
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='TBA' target="_blank" >HTML</a>
-
-- title: 🎯MODA(Workshop)
-  year: 2024
-  tier: +
-  id: moda2024
-  link:  https://moda.dmi.unibas.ch/
-  deadline: "2024-03"
-  timezone: TBA
-  date: May 16
-  place: Hamburg, Germany
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='  https://moda.dmi.unibas.ch/' target="_blank" >HTML</a>
-
-- title: SC
-  year: 2024
-  tier: +++
-  id: sc2024
-  link: https://sc24.supercomputing.org/
-  deadline: "2024-04"
-  timezone: TBA
-  date: NOV 17–22
-  place: ATLANTA, GA
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://sc24.supercomputing.org/' target="_blank" >HTML</a>
-
-- title: IC2E
-  year: 2024
-  tier: +
-  id: ic2e2024
-  link: https://conferences.computer.org/IC2E/2024/cfp-main.html
-  deadline: "2024-04-12"
-  timezone: TBA
-  date: September 24-27, 2024
-  place: Paphos, Cyprus
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://conferences.computer.org/IC2E/2024/cfp-main.html' target="_blank" >HTML</a>
-
-
-
-
-# TEMPLETE to add a conference
-# - title: 
-#   tier: 
-#   year: 
-#   id: 
-#   link: 
-#   deadline: 
-#   timezone: 
-#   date: 
-#   place: 
-#   sub: 
-#   note: <b>Call for Papers:</b> <a href='TBA' target="_blank" >HTML</a>
