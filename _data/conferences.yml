@@ -170,6 +170,18 @@
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://sc24.supercomputing.org/' target="_blank" >HTML</a>
 
+- title: CompSys
+  year: 2024
+  tier: 
+  id: compsys2024
+  link: 
+  deadline: "2024-04-08"
+  timezone: TBA
+  date: 27-29 May 2024
+  place:  Den Bosch, Netherlands
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://www.compsys.science/conference/current/' target="_blank" >HTML</a>
+
 - title: IC2E
   year: 2024
   tier: +
