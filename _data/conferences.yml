@@ -159,7 +159,7 @@
 #   note: <b>Call for Papers:</b> <a href='https://cloud.conferences.computer.org/2024/call-for-papers/' target="_blank" >HTML</a>
 
 
-- title: 🎯AI4Sys(Workshop)
+- title: AI4Sys(Workshop)
   year: 2024
   tier: +
   id: ai4sys2024
@@ -183,7 +183,19 @@
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://sc24.supercomputing.org/' target="_blank" >HTML</a>
 
-- title: 🎯CompSys
+- title: EPEW(Workshop)
+  year: 2024
+  tier: +
+  id: epew2024
+  link: https://epew-workshop.github.io/
+  deadline: "2024-04-07"
+  timezone: TBA
+  date: June 10-14, 2024
+  place: Venice, Italy
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://epew-workshop.github.io/' target="_blank" >HTML</a>
+
+- title: 🎯CompSys(Workshop)
   year: 2024
   tier: 
   id: compsys2024
@@ -206,6 +218,18 @@
   place: Paphos, Cyprus
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://conferences.computer.org/IC2E/2024/cfp-main.html' target="_blank" >HTML</a>
+
+- title: AI-DCS(Workshop)
+  year: 2024
+  tier: +
+  id: aidcs2024
+  link: https://traffic.comics.unina.it/aidcs2024/
+  deadline: "2024-04-14"
+  timezone: TBA
+  date: 23-26 July
+  place: Jersey City, New Jersey (USA)
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://traffic.comics.unina.it/aidcs2024/' target="_blank" >HTML</a>
 
 - title: ICPP
   year: 2024
@@ -267,7 +291,7 @@
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://middleware-conf.github.io/2024/calls/call-for-research-papers/' target="_blank" >HTML</a>
 
-- title: 🎯IISWC
+- title: IISWC
   year: 2024
   tier: +
   id: iiswc2024
@@ -278,6 +302,19 @@
   place: Vancouver BC Canada
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://iiswc.org/iiswc2024/' target="_blank" >HTML</a>
+
+- title: HiPC
+  year: 2024
+  tier: +
+  id: hipc2024
+  link: 
+  deadline: "2024-06-19"
+  timezone: TBA
+  date:  December 18 to December 21, 2024
+  place: Bengaluru, India
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://hipc.3it.in/papers/' target="_blank" >HTML</a>
+
 
 
 # - title: SIGMETRICS(Summer)
