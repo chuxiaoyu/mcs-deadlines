@@ -98,65 +98,78 @@
 #   sub: [OS,DS,ST,HPC]
 #   note: <b>Call for Papers:</b> <a href='https://hotcloudperf.spec.org/' target="_blank" >HTML</a>
 
-- title: 🎯MODA(Workshop)
+# - title: 🎯MODA(Workshop)
+#   year: 2024
+#   tier: +
+#   id: moda2024
+#   link:  https://moda.dmi.unibas.ch/
+#   deadline: "2024-03-01"
+#   timezone: TBA
+#   date: May 16
+#   place: Hamburg, Germany
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='  https://moda.dmi.unibas.ch/' target="_blank" >HTML</a>
+
+# - title: Euro-Par
+#   year: 2024
+#   tier: ++
+#   id: europar2024
+#   link: https://2024.euro-par.org/
+#   deadline: '2024-03-05'
+#   timezone: TBA
+#   date: 26-30 August 2024
+#   place: Madrid, Spain
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://2024.euro-par.org/' target="_blank" >HTML</a>
+
+# - title: 🎯EuroMLSys(Workshop)
+#   year: 2024
+#   tier: +
+#   id: euromlsys2024
+#   link: https://euromlsys.eu/#
+#   deadline: '2024-03-12'
+#   timezone: TBA
+#   date: May 8th 2023
+#   place: Rome, Italy
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://euromlsys.eu/#' target="_blank" >HTML</a>
+
+# - title: ECML-PKDD
+#   year: 2024
+#   tier: ++
+#   id: ecmlpkdd2024
+#   link: https://2024.ecmlpkdd.org/submissions/key-dates-and-deadlines
+#   deadline: '2024-03-15'
+#   timezone: TBA
+#   date: September 9-13
+#   place: Vilnius
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://2024.ecmlpkdd.org/submissions/key-dates-and-deadlines' target="_blank" >HTML</a>
+
+# - title: IEEE Cloud
+#   year: 2024
+#   tier: +
+#   id: ieeecloud2024
+#   link: https://cloud.conferences.computer.org/2024/call-for-papers/
+#   deadline: '2024-03-17'
+#   timezone: TBA
+#   date: "Summer 2024"
+#   place: Shenzhen, China
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://cloud.conferences.computer.org/2024/call-for-papers/' target="_blank" >HTML</a>
+
+
+- title: 🎯AI4Sys(Workshop)
   year: 2024
   tier: +
-  id: moda2024
-  link:  https://moda.dmi.unibas.ch/
-  deadline: "2024-03-01"
+  id: ai4sys2024
+  link: https://sites.google.com/view/ai4sys/home
+  deadline: '2024-03-30'
   timezone: TBA
-  date: May 16
-  place: Hamburg, Germany
+  date: June 3-7, 2024
+  place: Pisa, Italy
   sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='  https://moda.dmi.unibas.ch/' target="_blank" >HTML</a>
-
-- title: Euro-Par
-  year: 2024
-  tier: ++
-  id: europar2024
-  link: https://2024.euro-par.org/
-  deadline: '2024-03-05'
-  timezone: TBA
-  date: 26-30 August 2024
-  place: Madrid, Spain
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://2024.euro-par.org/' target="_blank" >HTML</a>
-
-- title: 🎯EuroMLSys(Workshop)
-  year: 2024
-  tier: +
-  id: euromlsys2024
-  link: https://euromlsys.eu/#
-  deadline: '2024-03-12'
-  timezone: TBA
-  date: May 8th 2023
-  place: Rome, Italy
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://euromlsys.eu/#' target="_blank" >HTML</a>
-
-- title: ECML-PKDD
-  year: 2024
-  tier: ++
-  id: ecmlpkdd2024
-  link: https://2024.ecmlpkdd.org/submissions/key-dates-and-deadlines
-  deadline: '2024-03-15'
-  timezone: TBA
-  date: September 9-13
-  place: Vilnius
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://2024.ecmlpkdd.org/submissions/key-dates-and-deadlines' target="_blank" >HTML</a>
-
-- title: IEEE Cloud
-  year: 2024
-  tier: +
-  id: ieeecloud2024
-  link: https://cloud.conferences.computer.org/2024/call-for-papers/
-  deadline: '2024-03-17'
-  timezone: TBA
-  date: "Summer 2024"
-  place: Shenzhen, China
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://cloud.conferences.computer.org/2024/call-for-papers/' target="_blank" >HTML</a>
+  note: <b>Call for Papers:</b> <a href='https://sites.google.com/view/ai4sys/home' target="_blank" >HTML</a>
 
 - title: SC
   year: 2024
@@ -170,7 +183,7 @@
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://sc24.supercomputing.org/' target="_blank" >HTML</a>
 
-- title: CompSys
+- title: 🎯CompSys
   year: 2024
   tier: 
   id: compsys2024
@@ -241,6 +254,30 @@
   place: Tsukuba, Japan
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://issre.github.io/2024/calls_cfp-research.html' target="_blank" >HTML</a>
+
+- title: Middleware
+  year: 2024
+  tier: ++
+  id: middleware2024
+  link: 
+  deadline: "2024-05-24"
+  timezone: TBA
+  date: 02nd – 06th December 2024
+  place: Hong Kong, China
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://middleware-conf.github.io/2024/calls/call-for-research-papers/' target="_blank" >HTML</a>
+
+- title: 🎯IISWC
+  year: 2024
+  tier: +
+  id: iiswc2024
+  link: 
+  deadline: "2024-06-01"
+  timezone: TBA
+  date:  September 15-17, 2024
+  place: Vancouver BC Canada
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://iiswc.org/iiswc2024/' target="_blank" >HTML</a>
 
 
 # - title: SIGMETRICS(Summer)
