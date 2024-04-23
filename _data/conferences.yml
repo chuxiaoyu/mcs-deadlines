@@ -159,113 +159,113 @@
 #   note: <b>Call for Papers:</b> <a href='https://cloud.conferences.computer.org/2024/call-for-papers/' target="_blank" >HTML</a>
 
 
-- title: AI4Sys(Workshop)
-  year: 2024
-  tier: +
-  id: ai4sys2024
-  link: https://sites.google.com/view/ai4sys/home
-  deadline: '2024-03-30'
-  timezone: TBA
-  date: June 3-7, 2024
-  place: Pisa, Italy
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://sites.google.com/view/ai4sys/home' target="_blank" >HTML</a>
+# - title: AI4Sys(Workshop)
+#   year: 2024
+#   tier: +
+#   id: ai4sys2024
+#   link: https://sites.google.com/view/ai4sys/home
+#   deadline: '2024-03-30'
+#   timezone: TBA
+#   date: June 3-7, 2024
+#   place: Pisa, Italy
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://sites.google.com/view/ai4sys/home' target="_blank" >HTML</a>
 
-- title: SC
-  year: 2024
-  tier: +++
-  id: sc2024
-  link: https://sc24.supercomputing.org/
-  deadline: "2024-04-02"
-  timezone: TBA
-  date: NOV 17–22
-  place: ATLANTA, GA
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://sc24.supercomputing.org/' target="_blank" >HTML</a>
+# - title: SC
+#   year: 2024
+#   tier: +++
+#   id: sc2024
+#   link: https://sc24.supercomputing.org/
+#   deadline: "2024-04-02"
+#   timezone: TBA
+#   date: NOV 17–22
+#   place: ATLANTA, GA
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://sc24.supercomputing.org/' target="_blank" >HTML</a>
 
-- title: EPEW(Workshop)
-  year: 2024
-  tier: +
-  id: epew2024
-  link: https://epew-workshop.github.io/
-  deadline: "2024-04-07"
-  timezone: TBA
-  date: June 10-14, 2024
-  place: Venice, Italy
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://epew-workshop.github.io/' target="_blank" >HTML</a>
+# - title: EPEW(Workshop)
+#   year: 2024
+#   tier: +
+#   id: epew2024
+#   link: https://epew-workshop.github.io/
+#   deadline: "2024-04-07"
+#   timezone: TBA
+#   date: June 10-14, 2024
+#   place: Venice, Italy
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://epew-workshop.github.io/' target="_blank" >HTML</a>
 
-- title: 🎯CompSys(Workshop)
-  year: 2024
-  tier: 
-  id: compsys2024
-  link: 
-  deadline: "2024-04-08"
-  timezone: TBA
-  date: 27-29 May 2024
-  place:  Den Bosch, Netherlands
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://www.compsys.science/conference/current/' target="_blank" >HTML</a>
+# - title: 🎯CompSys(Workshop)
+#   year: 2024
+#   tier: 
+#   id: compsys2024
+#   link: 
+#   deadline: "2024-04-08"
+#   timezone: TBA
+#   date: 27-29 May 2024
+#   place:  Den Bosch, Netherlands
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://www.compsys.science/conference/current/' target="_blank" >HTML</a>
 
-- title: IC2E
-  year: 2024
-  tier: +
-  id: ic2e2024
-  link: https://conferences.computer.org/IC2E/2024/cfp-main.html
-  deadline: "2024-04-12"
-  timezone: TBA
-  date: September 24-27, 2024
-  place: Paphos, Cyprus
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://conferences.computer.org/IC2E/2024/cfp-main.html' target="_blank" >HTML</a>
+# - title: IC2E
+#   year: 2024
+#   tier: +
+#   id: ic2e2024
+#   link: https://conferences.computer.org/IC2E/2024/cfp-main.html
+#   deadline: "2024-04-12"
+#   timezone: TBA
+#   date: September 24-27, 2024
+#   place: Paphos, Cyprus
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://conferences.computer.org/IC2E/2024/cfp-main.html' target="_blank" >HTML</a>
 
-- title: AI-DCS(Workshop)
-  year: 2024
-  tier: +
-  id: aidcs2024
-  link: https://traffic.comics.unina.it/aidcs2024/
-  deadline: "2024-04-14"
-  timezone: TBA
-  date: 23-26 July
-  place: Jersey City, New Jersey (USA)
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://traffic.comics.unina.it/aidcs2024/' target="_blank" >HTML</a>
+# - title: AI-DCS(Workshop)
+#   year: 2024
+#   tier: +
+#   id: aidcs2024
+#   link: https://traffic.comics.unina.it/aidcs2024/
+#   deadline: "2024-04-14"
+#   timezone: TBA
+#   date: 23-26 July
+#   place: Jersey City, New Jersey (USA)
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://traffic.comics.unina.it/aidcs2024/' target="_blank" >HTML</a>
 
-- title: ICPP
-  year: 2024
-  tier: ++
-  id: icpp2024
-  link: https://icpp2024.org/
-  deadline: "2024-04-15"
-  timezone: TBA
-  date: August 12-15, 2024
-  place: Gotland, Sweden
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://icpp2024.org/' target="_blank" >HTML</a>
+# - title: ICPP
+#   year: 2024
+#   tier: ++
+#   id: icpp2024
+#   link: https://icpp2024.org/
+#   deadline: "2024-04-15"
+#   timezone: TBA
+#   date: August 12-15, 2024
+#   place: Gotland, Sweden
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://icpp2024.org/' target="_blank" >HTML</a>
 
-- title: 🎯IEEE Cluster
+- title: 🎯IEEE CLUSTER (extended)
   year: 2024
   tier: ++
   id: ieeecluster2024
   link: 
-  deadline: "2024-04-25"
+  deadline: "2024-05-09"
   timezone: Etc/GMT+12
   date: Sep. 17 - 20, 2024
   place: Kobe, Japan
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://clustercomp.org/2024/papers/' target="_blank" >HTML</a>
 
-- title: KR
-  year: 2024
-  tier: ++
-  id: kr2024
-  link: https://kr.org/KR2024/
-  deadline: "2024-05-01"
-  timezone: TBA
-  date: November 2-8, 2024
-  place: Hanoi, Vietnam
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://kr.org/KR2024/' target="_blank" >HTML</a>
+# - title: KR
+#   year: 2024
+#   tier: ++
+#   id: kr2024
+#   link: https://kr.org/KR2024/
+#   deadline: "2024-05-01"
+#   timezone: TBA
+#   date: November 2-8, 2024
+#   place: Hanoi, Vietnam
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://kr.org/KR2024/' target="_blank" >HTML</a>
 
 - title: ISSRE
   year: 2024
@@ -279,6 +279,18 @@
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://issre.github.io/2024/calls_cfp-research.html' target="_blank" >HTML</a>
 
+- title: EuroSys (Spring)
+  year: 2025
+  tier: +++
+  id: eurosys2025spring
+  link: 
+  deadline: "2024-05-14"
+  timezone: TBA
+  date: March 30 - April 3, 2025 
+  place: ROTTERDAM
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://2025.eurosys.org/cfp.html' target="_blank" >HTML</a>
+
 - title: Middleware
   year: 2024
   tier: ++
@@ -291,19 +303,31 @@
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://middleware-conf.github.io/2024/calls/call-for-research-papers/' target="_blank" >HTML</a>
 
+- title: 🎯WOWMON (WS)
+  year: 2024
+  tier: 
+  id: wowmon2024
+  link: 
+  deadline: "2024-05-24"
+  timezone: TBA
+  date:  August 12th, 2024
+  place: Gotland, Sweden
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://wowmon-workshop.github.io/' target="_blank" >HTML</a>
+
 - title: IISWC
   year: 2024
   tier: +
   id: iiswc2024
   link: 
-  deadline: "2024-06-01"
+  deadline: "2024-05-29"
   timezone: TBA
   date:  September 15-17, 2024
   place: Vancouver BC Canada
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://iiswc.org/iiswc2024/' target="_blank" >HTML</a>
 
-- title: HiPC
+- title: 🎯HiPC
   year: 2024
   tier: +
   id: hipc2024
@@ -315,7 +339,17 @@
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://hipc.3it.in/papers/' target="_blank" >HTML</a>
 
-
+- title: 🎯TCS Amsterdam Marathon
+  year: 2024
+  tier: 
+  id: tcsams2024
+  link: 
+  deadline: "2024-10-20"
+  timezone: Etc/GMT+7
+  date:  20 Octorber, 2024
+  place: Amsterdam, Netherlands
+  sub: [OS,DS,ST,HPC]
+  note: <b>Website:</b> <a href='https://www.tcsamsterdammarathon.nl/' target="_blank" >HTML</a>
 
 # - title: SIGMETRICS(Summer)
 #   year: 2024
