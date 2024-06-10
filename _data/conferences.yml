@@ -279,17 +279,17 @@
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://issre.github.io/2024/calls_cfp-research.html' target="_blank" >HTML</a>
 
-- title: EuroSys (Spring)
-  year: 2025
-  tier: +++
-  id: eurosys2025spring
-  link: 
-  deadline: "2024-05-14"
-  timezone: TBA
-  date: March 30 - April 3, 2025 
-  place: ROTTERDAM
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://2025.eurosys.org/cfp.html' target="_blank" >HTML</a>
+# - title: EuroSys (Spring)
+#   year: 2025
+#   tier: +++
+#   id: eurosys2025spring
+#   link: 
+#   deadline: "2024-05-14"
+#   timezone: TBA
+#   date: March 30 - April 3, 2025 
+#   place: ROTTERDAM
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://2025.eurosys.org/cfp.html' target="_blank" >HTML</a>
 
 - title: Middleware
   year: 2024
@@ -303,7 +303,7 @@
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://middleware-conf.github.io/2024/calls/call-for-research-papers/' target="_blank" >HTML</a>
 
-- title: 🎯WOWMON (WS)
+- title: WOWMON (WS)
   year: 2024
   tier: 
   id: wowmon2024
@@ -327,6 +327,18 @@
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://iiswc.org/iiswc2024/' target="_blank" >HTML</a>
 
+- title: Sustainable HPC (WS)
+  year: 2024
+  tier: +
+  id: shpc2024
+  link: 
+  deadline: "2024-06-18"
+  timezone: TBA
+  date: Sep. 17 - 20, 2024
+  place: Kobe, Japan
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://sites.google.com/lbl.gov/sustainable-hpc-sop-workshop24/home' target="_blank" >HTML</a>
+
 - title: 🎯HiPC
   year: 2024
   tier: +
@@ -338,6 +350,18 @@
   place: Bengaluru, India
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://hipc.3it.in/papers/' target="_blank" >HTML</a>
+
+- title: HotInfra (WS)
+  year: 2024
+  tier: +
+  id: hotinfra2024
+  link: 
+  deadline: "2024-09-01"
+  timezone: TBA
+  date:  November 3, 2024
+  place: Austin, Texas, USA
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://hotinfra24.github.io/' target="_blank" >HTML</a>
 
 - title: 🎯TCS Amsterdam Marathon
   year: 2024
