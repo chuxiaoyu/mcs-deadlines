@@ -303,18 +303,6 @@
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://middleware-conf.github.io/2024/calls/call-for-research-papers/' target="_blank" >HTML</a>
 
-- title: WOWMON (WS)
-  year: 2024
-  tier: 
-  id: wowmon2024
-  link: 
-  deadline: "2024-05-24"
-  timezone: TBA
-  date:  August 12th, 2024
-  place: Gotland, Sweden
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://wowmon-workshop.github.io/' target="_blank" >HTML</a>
-
 - title: IISWC
   year: 2024
   tier: +
@@ -326,6 +314,19 @@
   place: Vancouver BC Canada
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://iiswc.org/iiswc2024/' target="_blank" >HTML</a>
+
+- title: WOWMON (WS)
+  year: 2024
+  tier: 
+  id: wowmon2024
+  link: 
+  deadline: "2024-06-14"
+  timezone: TBA
+  date:  August 12th, 2024
+  place: Gotland, Sweden
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://wowmon-workshop.github.io/' target="_blank" >HTML</a>
+
 
 - title: Sustainable HPC (WS)
   year: 2024
