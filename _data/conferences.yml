@@ -327,20 +327,7 @@
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://wowmon-workshop.github.io/' target="_blank" >HTML</a>
 
-
-- title: Sustainable HPC (WS)
-  year: 2024
-  tier: +
-  id: shpc2024
-  link: 
-  deadline: "2024-06-18"
-  timezone: TBA
-  date: Sep. 17 - 20, 2024
-  place: Kobe, Japan
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://sites.google.com/lbl.gov/sustainable-hpc-sop-workshop24/home' target="_blank" >HTML</a>
-
-- title: 🎯HiPC
+- title: HiPC
   year: 2024
   tier: +
   id: hipc2024
@@ -351,6 +338,18 @@
   place: Bengaluru, India
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://hipc.3it.in/papers/' target="_blank" >HTML</a>
+
+- title: Sustainable HPC (WS)
+  year: 2024
+  tier: +
+  id: shpc2024
+  link: 
+  deadline: "2024-06-30"
+  timezone: TBA
+  date: Sep. 17 - 20, 2024
+  place: Kobe, Japan
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://sites.google.com/lbl.gov/sustainable-hpc-sop-workshop24/home' target="_blank" >HTML</a>
 
 - title: HotInfra (WS)
   year: 2024
