@@ -243,113 +243,113 @@
 #   sub: [OS,DS,ST,HPC]
 #   note: <b>Call for Papers:</b> <a href='https://icpp2024.org/' target="_blank" >HTML</a>
 
-- title: 🎯IEEE CLUSTER (extended)
-  year: 2024
-  tier: ++
-  id: ieeecluster2024
-  link: 
-  deadline: "2024-05-09"
-  timezone: Etc/GMT+12
-  date: Sep. 17 - 20, 2024
-  place: Kobe, Japan
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://clustercomp.org/2024/papers/' target="_blank" >HTML</a>
-
-# - title: KR
+# - title: 🎯IEEE CLUSTER (extended)
 #   year: 2024
 #   tier: ++
-#   id: kr2024
-#   link: https://kr.org/KR2024/
-#   deadline: "2024-05-01"
-#   timezone: TBA
-#   date: November 2-8, 2024
-#   place: Hanoi, Vietnam
-#   sub: [OS,DS,ST,HPC]
-#   note: <b>Call for Papers:</b> <a href='https://kr.org/KR2024/' target="_blank" >HTML</a>
-
-- title: ISSRE
-  year: 2024
-  tier: ++
-  id: issre2024
-  link: 
-  deadline: "2024-05-10"
-  timezone: TBA
-  date: October 28th - 31st, 2024
-  place: Tsukuba, Japan
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://issre.github.io/2024/calls_cfp-research.html' target="_blank" >HTML</a>
-
-# - title: EuroSys (Spring)
-#   year: 2025
-#   tier: +++
-#   id: eurosys2025spring
+#   id: ieeecluster2024
 #   link: 
-#   deadline: "2024-05-14"
-#   timezone: TBA
-#   date: March 30 - April 3, 2025 
-#   place: ROTTERDAM
+#   deadline: "2024-05-09"
+#   timezone: Etc/GMT+12
+#   date: Sep. 17 - 20, 2024
+#   place: Kobe, Japan
 #   sub: [OS,DS,ST,HPC]
-#   note: <b>Call for Papers:</b> <a href='https://2025.eurosys.org/cfp.html' target="_blank" >HTML</a>
+#   note: <b>Call for Papers:</b> <a href='https://clustercomp.org/2024/papers/' target="_blank" >HTML</a>
 
-- title: Middleware
-  year: 2024
-  tier: ++
-  id: middleware2024
-  link: 
-  deadline: "2024-05-24"
-  timezone: TBA
-  date: 02nd – 06th December 2024
-  place: Hong Kong, China
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://middleware-conf.github.io/2024/calls/call-for-research-papers/' target="_blank" >HTML</a>
+# # - title: KR
+# #   year: 2024
+# #   tier: ++
+# #   id: kr2024
+# #   link: https://kr.org/KR2024/
+# #   deadline: "2024-05-01"
+# #   timezone: TBA
+# #   date: November 2-8, 2024
+# #   place: Hanoi, Vietnam
+# #   sub: [OS,DS,ST,HPC]
+# #   note: <b>Call for Papers:</b> <a href='https://kr.org/KR2024/' target="_blank" >HTML</a>
 
-- title: IISWC
-  year: 2024
-  tier: +
-  id: iiswc2024
-  link: 
-  deadline: "2024-05-29"
-  timezone: TBA
-  date:  September 15-17, 2024
-  place: Vancouver BC Canada
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://iiswc.org/iiswc2024/' target="_blank" >HTML</a>
+# - title: ISSRE
+#   year: 2024
+#   tier: ++
+#   id: issre2024
+#   link: 
+#   deadline: "2024-05-10"
+#   timezone: TBA
+#   date: October 28th - 31st, 2024
+#   place: Tsukuba, Japan
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://issre.github.io/2024/calls_cfp-research.html' target="_blank" >HTML</a>
 
-- title: WOWMON (WS)
-  year: 2024
-  tier: 
-  id: wowmon2024
-  link: 
-  deadline: "2024-06-14"
-  timezone: TBA
-  date:  August 12th, 2024
-  place: Gotland, Sweden
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://wowmon-workshop.github.io/' target="_blank" >HTML</a>
+# # - title: EuroSys (Spring)
+# #   year: 2025
+# #   tier: +++
+# #   id: eurosys2025spring
+# #   link: 
+# #   deadline: "2024-05-14"
+# #   timezone: TBA
+# #   date: March 30 - April 3, 2025 
+# #   place: ROTTERDAM
+# #   sub: [OS,DS,ST,HPC]
+# #   note: <b>Call for Papers:</b> <a href='https://2025.eurosys.org/cfp.html' target="_blank" >HTML</a>
 
-- title: HiPC
-  year: 2024
-  tier: +
-  id: hipc2024
-  link: 
-  deadline: "2024-06-19"
-  timezone: TBA
-  date:  December 18 to December 21, 2024
-  place: Bengaluru, India
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://hipc.3it.in/papers/' target="_blank" >HTML</a>
+# - title: Middleware
+#   year: 2024
+#   tier: ++
+#   id: middleware2024
+#   link: 
+#   deadline: "2024-05-24"
+#   timezone: TBA
+#   date: 02nd – 06th December 2024
+#   place: Hong Kong, China
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://middleware-conf.github.io/2024/calls/call-for-research-papers/' target="_blank" >HTML</a>
 
-- title: Sustainable HPC (WS)
-  year: 2024
-  tier: +
-  id: shpc2024
-  link: 
-  deadline: "2024-06-30"
-  timezone: TBA
-  date: Sep. 17 - 20, 2024
-  place: Kobe, Japan
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://sites.google.com/lbl.gov/sustainable-hpc-sop-workshop24/home' target="_blank" >HTML</a>
+# - title: IISWC
+#   year: 2024
+#   tier: +
+#   id: iiswc2024
+#   link: 
+#   deadline: "2024-05-29"
+#   timezone: TBA
+#   date:  September 15-17, 2024
+#   place: Vancouver BC Canada
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://iiswc.org/iiswc2024/' target="_blank" >HTML</a>
+
+# - title: WOWMON (WS)
+#   year: 2024
+#   tier: 
+#   id: wowmon2024
+#   link: 
+#   deadline: "2024-06-14"
+#   timezone: TBA
+#   date:  August 12th, 2024
+#   place: Gotland, Sweden
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://wowmon-workshop.github.io/' target="_blank" >HTML</a>
+
+# - title: HiPC
+#   year: 2024
+#   tier: +
+#   id: hipc2024
+#   link: 
+#   deadline: "2024-06-19"
+#   timezone: TBA
+#   date:  December 18 to December 21, 2024
+#   place: Bengaluru, India
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://hipc.3it.in/papers/' target="_blank" >HTML</a>
+
+# - title: Sustainable HPC (WS)
+#   year: 2024
+#   tier: +
+#   id: shpc2024
+#   link: 
+#   deadline: "2024-06-30"
+#   timezone: TBA
+#   date: Sep. 17 - 20, 2024
+#   place: Kobe, Japan
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://sites.google.com/lbl.gov/sustainable-hpc-sop-workshop24/home' target="_blank" >HTML</a>
 
 - title: HotInfra (WS)
   year: 2024
@@ -363,18 +363,6 @@
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://hotinfra24.github.io/' target="_blank" >HTML</a>
 
-- title: 🎯TCS Amsterdam Marathon
-  year: 2024
-  tier: 
-  id: tcsams2024
-  link: 
-  deadline: "2024-10-20"
-  timezone: Etc/GMT+7
-  date:  20 Octorber, 2024
-  place: Amsterdam, Netherlands
-  sub: [OS,DS,ST,HPC]
-  note: <b>Website:</b> <a href='https://www.tcsamsterdammarathon.nl/' target="_blank" >HTML</a>
-
 # - title: SIGMETRICS(Summer)
 #   year: 2024
 #   tier: +++
@@ -387,17 +375,17 @@
 #   sub: [DS,HPC]
 #   note: TBA
 
-# - title: HPCA
-#   year: 2024
-#   tier: +++
-#   id: hpca2024
-#   link: https://hpca-conf.org/2024/
-#   deadline: '2023-08-04'
-#   timezone: Etc/GMT-4
-#   date: October 2 – 13, 2023
-#   place: Edinburgh, Scotland
-#   sub: [DS,HPC,OS]
-#   note: <b>Call for Papers:</b> <a href='https://hpca-conf.org/2024/' target="_blank" >HTML</a>
+- title: HPCA
+  year: 2025
+  tier: +++
+  id: hpca2025
+  link: https://hpca-conf.org/2025/
+  deadline: '2024-08-02'
+  timezone: Etc/GMT-4
+  date: March 1st to March 5th 
+  place: Las Vegas, United States
+  sub: [DS,HPC,OS,ST]
+  note: <b>Call for Papers:</b> <a href='https://hpca-conf.org/2025/' target="_blank" >HTML</a>
 
 # - title: ASPLOS(Summer)
 #   year: 2024
@@ -496,17 +484,29 @@
 #   sub: [OS,DS,ST]
 #   note: TBA
 
-# - title: 🎯ICPE
-#   year: 2024
-#   tier: +
-#   id: icpe2024
-#   link: https://icpe2024.spec.org/important-dates/
-#   deadline: '2023-11-03'
-#   timezone: Etc/GMT+12
-#   date: May 7-11
-#   place: London, UK
-#   sub: [DS,HPC]
-#   note: b>Call for Papers:</b> <a href='https://icpe2024.spec.org/important-dates/' target="_blank" >HTML</a>
+- title: 🎯ICPE
+  year: 2025
+  tier: +
+  id: icpe2025
+  link: https://icpe2025.spec.org/important-dates/
+  deadline: '2024-10-18'
+  timezone: Etc/GMT+12
+  date: May 5-9
+  place: York University, Toronto, Canada 
+  sub: [DS,HPC]
+  note: b>Call for Papers:</b> <a href='https://icpe2025.spec.org/important-dates/' target="_blank" >HTML</a>
+
+- title: 🎯TCS Amsterdam Marathon
+  year: 2024
+  tier: 
+  id: tcsams2024
+  link: 
+  deadline: "2024-10-20"
+  timezone: Etc/GMT+7
+  date:  20 Octorber, 2024
+  place: Amsterdam, Netherlands
+  sub: [OS,DS,ST,HPC]
+  note: <b>Website:</b> <a href='https://www.tcsamsterdammarathon.nl/' target="_blank" >HTML</a>
 
 # - title: FAST
 #   year: 2024
@@ -557,14 +557,14 @@
 #   sub: [OS,DS,ST]
 #   note: TBA
 
-# - title: CCGRID
-#   year: 2024
-#   tier: +
-#   id: ccgrid2024
-#   link: https://2024.ccgrid-conference.org/important-dates/
-#   deadline: '2023-11-27'
-#   timezone: TBA
-#   date: May 6-9, 2024
-#   place: Philadelphia
-#   sub: [OS,DS,ST,HPC]
-#   note: <b>Call for Papers:</b> <a href='https://2024.ccgrid-conference.org/important-dates/' target="_blank" >HTML</a>
+- title: 🎯CCGRID
+  year: 2025
+  tier: +
+  id: ccgrid2025
+  link: https://site.uit.no/ccgrid2025/research-paper/
+  deadline: '2024-12-02'
+  timezone: TBA
+  date: May 19-22, 2025
+  place: Tromsø, Norway
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://site.uit.no/ccgrid2025/research-paper/' target="_blank" >HTML</a>
