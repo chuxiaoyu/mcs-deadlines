@@ -351,17 +351,17 @@
 #   sub: [OS,DS,ST,HPC]
 #   note: <b>Call for Papers:</b> <a href='https://sites.google.com/lbl.gov/sustainable-hpc-sop-workshop24/home' target="_blank" >HTML</a>
 
-- title: HotInfra (WS)
-  year: 2024
-  tier: +
-  id: hotinfra2024
-  link: 
-  deadline: "2024-09-01"
-  timezone: TBA
-  date:  November 3, 2024
-  place: Austin, Texas, USA
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://hotinfra24.github.io/' target="_blank" >HTML</a>
+# - title: HotInfra (WS)
+#   year: 2024
+#   tier: +
+#   id: hotinfra2024
+#   link: 
+#   deadline: "2024-09-01"
+#   timezone: TBA
+#   date:  November 3, 2024
+#   place: Austin, Texas, USA
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://hotinfra24.github.io/' target="_blank" >HTML</a>
 
 # - title: SIGMETRICS(Summer)
 #   year: 2024
@@ -375,17 +375,17 @@
 #   sub: [DS,HPC]
 #   note: TBA
 
-- title: HPCA
-  year: 2025
-  tier: +++
-  id: hpca2025
-  link: https://hpca-conf.org/2025/
-  deadline: '2024-08-02'
-  timezone: Etc/GMT-4
-  date: March 1st to March 5th 
-  place: Las Vegas, United States
-  sub: [DS,HPC,OS,ST]
-  note: <b>Call for Papers:</b> <a href='https://hpca-conf.org/2025/' target="_blank" >HTML</a>
+# - title: HPCA
+#   year: 2025
+#   tier: +++
+#   id: hpca2025
+#   link: https://hpca-conf.org/2025/
+#   deadline: '2024-08-02'
+#   timezone: Etc/GMT-4
+#   date: March 1st to March 5th 
+#   place: Las Vegas, United States
+#   sub: [DS,HPC,OS,ST]
+#   note: <b>Call for Papers:</b> <a href='https://hpca-conf.org/2025/' target="_blank" >HTML</a>
 
 # - title: ASPLOS(Summer)
 #   year: 2024
