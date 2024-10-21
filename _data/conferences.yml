@@ -489,24 +489,24 @@
   tier: +
   id: icpe2025
   link: https://icpe2025.spec.org/important-dates/
-  deadline: '2024-10-18'
+  deadline: '2024-11-01'
   timezone: Etc/GMT+12
   date: May 5-9
   place: York University, Toronto, Canada 
   sub: [DS,HPC]
   note: b>Call for Papers:</b> <a href='https://icpe2025.spec.org/important-dates/' target="_blank" >HTML</a>
 
-- title: 🎯TCS Amsterdam Marathon
-  year: 2024
-  tier: 
-  id: tcsams2024
-  link: 
-  deadline: "2024-10-20"
-  timezone: Etc/GMT+7
-  date:  20 Octorber, 2024
-  place: Amsterdam, Netherlands
-  sub: [OS,DS,ST,HPC]
-  note: <b>Website:</b> <a href='https://www.tcsamsterdammarathon.nl/' target="_blank" >HTML</a>
+# - title: 🎯TCS Amsterdam Marathon
+#   year: 2024
+#   tier: 
+#   id: tcsams2024
+#   link: 
+#   deadline: "2024-10-20"
+#   timezone: Etc/GMT+7
+#   date:  20 Octorber, 2024
+#   place: Amsterdam, Netherlands
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Website:</b> <a href='https://www.tcsamsterdammarathon.nl/' target="_blank" >HTML</a>
 
 # - title: FAST
 #   year: 2024
