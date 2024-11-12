@@ -91,7 +91,7 @@
   tier: +
   id: hotcloudperf2025
   link: https://hotcloudperf.spec.org/2025
-  deadline: "2024-01-27"
+  deadline: "2025-01-27"
   timezone: Etc/GMT+12
   date: May 5-9
   place: York University, Toronto, Canada 
@@ -110,12 +110,25 @@
 #   sub: [OS,DS,ST,HPC]
 #   note: <b>Call for Papers:</b> <a href='  https://moda.dmi.unibas.ch/' target="_blank" >HTML</a>
 
+
+- title: IEEE Cloud
+  year: 2025
+  tier: +
+  id: ieeecloud2025
+  link: https://services.conferences.computer.org/2025/cloud/cloud-call-for-papers/
+  deadline: '2025-03-03'
+  timezone: Etc/GMT+12
+  date: July 7-12
+  place: Helsinki, Finland
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://services.conferences.computer.org/2025/cloud/cloud-call-for-papers/' target="_blank" >HTML</a>
+
 - title: Euro-Par
   year: 2025
   tier: ++
   id: europar2025
   link: https://2025.euro-par.org/
-  deadline: '2024-03-05'
+  deadline: '2025-03-05'
   timezone: Etc/GMT+12
   date: 25-29 August 2025
   place: Dresden, Germany
@@ -145,19 +158,6 @@
 #   place: Vilnius
 #   sub: [OS,DS,ST,HPC]
 #   note: <b>Call for Papers:</b> <a href='https://2024.ecmlpkdd.org/submissions/key-dates-and-deadlines' target="_blank" >HTML</a>
-
-- title: IEEE Cloud
-  year: 2025
-  tier: +
-  id: ieeecloud2025
-  link: https://services.conferences.computer.org/2025/cloud/cloud-call-for-papers/
-  deadline: '2024-03-03'
-  timezone: Etc/GMT+12
-  date: July 7-12
-  place: Helsinki, Finland
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://services.conferences.computer.org/2025/cloud/cloud-call-for-papers/' target="_blank" >HTML</a>
-
 
 # - title: AI4Sys(Workshop)
 #   year: 2024
