@@ -87,8 +87,8 @@
 #   note: <b>Call for Papers:</b> <a href='https://ai-perf.github.io/AIPerf2024/' target="_blank" >HTML</a>
 
 - title: HotCloudPerf(Workshop)
-  year: 2024
-  tier: +
+  year: 2025
+  tier: WS
   id: hotcloudperf2025
   link: https://hotcloudperf.spec.org/2025
   deadline: "2025-01-27"
@@ -98,18 +98,29 @@
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://hotcloudperf.spec.org/2025' target="_blank" >HTML</a>
 
-# - title: 🎯MODA(Workshop)
-#   year: 2024
-#   tier: +
-#   id: moda2024
-#   link:  https://moda.dmi.unibas.ch/
-#   deadline: "2024-03-01"
-#   timezone: TBA
-#   date: May 16
-#   place: Hamburg, Germany
-#   sub: [OS,DS,ST,HPC]
-#   note: <b>Call for Papers:</b> <a href='  https://moda.dmi.unibas.ch/' target="_blank" >HTML</a>
+  - title: ESwML(Workshop)
+  year: 2025
+  tier: WS
+  id: eswml2025
+  link: https://eswml.github.io/2025/2025.html
+  deadline: "2025-02-07"
+  timezone: Etc/GMT+12
+  date: March 30-April 3, 2025
+  place: Rotterdam, Netherlands 
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://eswml.github.io/2025/2025.html' target="_blank" >HTML</a>
 
+- title: MODA(Workshop)
+  year: 2025
+  tier: +
+  id: moda2025
+  link:  https://moda.dmi.unibas.ch/
+  deadline: "2025-02-28"
+  timezone: TBA
+  date: June 13
+  place: Hamburg, Germany
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://moda.dmi.unibas.ch/' target="_blank" >HTML</a>
 
 - title: IEEE Cloud
   year: 2025
