@@ -88,7 +88,7 @@
 
 - title: HotCloudPerf(Workshop)
   year: 2025
-  tier: WS
+  tier: +
   id: hotcloudperf2025
   link: https://hotcloudperf.spec.org/2025
   deadline: "2025-01-27"
@@ -100,7 +100,7 @@
 
   - title: ESwML(Workshop)
   year: 2025
-  tier: WS
+  tier: +
   id: eswml2025
   link: https://eswml.github.io/2025/2025.html
   deadline: "2025-02-07"
