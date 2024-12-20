@@ -98,7 +98,7 @@
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://hotcloudperf.spec.org/2025' target="_blank" >HTML</a>
 
-  - title: ESwML(Workshop)
+- title: ESwML(Workshop)
   year: 2025
   tier: +
   id: eswml2025
@@ -495,17 +495,17 @@
 #   sub: [OS,DS,ST]
 #   note: TBA
 
-- title: 🎯ICPE
-  year: 2025
-  tier: +
-  id: icpe2025
-  link: https://icpe2025.spec.org/important-dates/
-  deadline: '2024-11-01'
-  timezone: Etc/GMT+12
-  date: May 5-9
-  place: York University, Toronto, Canada 
-  sub: [DS,HPC]
-  note: b>Call for Papers:</b> <a href='https://icpe2025.spec.org/important-dates/' target="_blank" >HTML</a>
+# - title: 🎯ICPE
+#   year: 2025
+#   tier: +
+#   id: icpe2025
+#   link: https://icpe2025.spec.org/important-dates/
+#   deadline: '2024-11-01'
+#   timezone: Etc/GMT+12
+#   date: May 5-9
+#   place: York University, Toronto, Canada 
+#   sub: [DS,HPC]
+#   note: b>Call for Papers:</b> <a href='https://icpe2025.spec.org/important-dates/' target="_blank" >HTML</a>
 
 # - title: 🎯TCS Amsterdam Marathon
 #   year: 2024
