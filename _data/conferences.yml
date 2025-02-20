@@ -98,17 +98,17 @@
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://hotcloudperf.spec.org/2025' target="_blank" >HTML</a>
 
-- title: ESwML(Workshop)
-  year: 2025
-  tier: +
-  id: eswml2025
-  link: https://eswml.github.io/2025/2025.html
-  deadline: "2025-02-07"
-  timezone: Etc/GMT+12
-  date: March 30-April 3, 2025
-  place: Rotterdam, Netherlands 
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://eswml.github.io/2025/2025.html' target="_blank" >HTML</a>
+# - title: ESwML(Workshop)
+#   year: 2025
+#   tier: +
+#   id: eswml2025
+#   link: https://eswml.github.io/2025/2025.html
+#   deadline: "2025-02-07"
+#   timezone: Etc/GMT+12
+#   date: March 30-April 3, 2025
+#   place: Rotterdam, Netherlands 
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://eswml.github.io/2025/2025.html' target="_blank" >HTML</a>
 
 - title: MODA(Workshop)
   year: 2025
@@ -182,17 +182,17 @@
 #   sub: [OS,DS,ST,HPC]
 #   note: <b>Call for Papers:</b> <a href='https://sites.google.com/view/ai4sys/home' target="_blank" >HTML</a>
 
-# - title: SC
-#   year: 2024
-#   tier: +++
-#   id: sc2024
-#   link: https://sc24.supercomputing.org/
-#   deadline: "2024-04-02"
-#   timezone: TBA
-#   date: NOV 17–22
-#   place: ATLANTA, GA
-#   sub: [OS,DS,ST,HPC]
-#   note: <b>Call for Papers:</b> <a href='https://sc24.supercomputing.org/' target="_blank" >HTML</a>
+- title: SC
+  year: 2025
+  tier: +++
+  id: sc2025
+  link: https://sc25.supercomputing.org/program/papers/
+  deadline: "2025-04-14"
+  timezone: TBA
+  date: NOV 18–20, 2025
+  place: ST LOUIS, MO
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://sc25.supercomputing.org/program/papers/' target="_blank" >HTML</a>
 
 # - title: EPEW(Workshop)
 #   year: 2024
@@ -254,17 +254,17 @@
 #   sub: [OS,DS,ST,HPC]
 #   note: <b>Call for Papers:</b> <a href='https://icpp2024.org/' target="_blank" >HTML</a>
 
-# - title: 🎯IEEE CLUSTER (extended)
-#   year: 2024
-#   tier: ++
-#   id: ieeecluster2024
-#   link: 
-#   deadline: "2024-05-09"
-#   timezone: Etc/GMT+12
-#   date: Sep. 17 - 20, 2024
-#   place: Kobe, Japan
-#   sub: [OS,DS,ST,HPC]
-#   note: <b>Call for Papers:</b> <a href='https://clustercomp.org/2024/papers/' target="_blank" >HTML</a>
+- title: IEEE CLUSTER
+  year: 2025
+  tier: ++
+  id: ieeecluster2025
+  link: https://clustercomp.org/2025/papers/
+  deadline: "2025-04-25"
+  timezone: Etc/GMT+12
+  date: 2-5 September 2025
+  place: Edinburgh, Scotland
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://clustercomp.org/2025/papers/' target="_blank" >HTML</a>
 
 # # - title: KR
 # #   year: 2024
@@ -302,17 +302,17 @@
 # #   sub: [OS,DS,ST,HPC]
 # #   note: <b>Call for Papers:</b> <a href='https://2025.eurosys.org/cfp.html' target="_blank" >HTML</a>
 
-# - title: Middleware
-#   year: 2024
-#   tier: ++
-#   id: middleware2024
-#   link: 
-#   deadline: "2024-05-24"
-#   timezone: TBA
-#   date: 02nd – 06th December 2024
-#   place: Hong Kong, China
-#   sub: [OS,DS,ST,HPC]
-#   note: <b>Call for Papers:</b> <a href='https://middleware-conf.github.io/2024/calls/call-for-research-papers/' target="_blank" >HTML</a>
+- title: Middleware (2nd)
+  year: 2025
+  tier: ++
+  id: middleware2025
+  link: https://middleware-conf.github.io/2025/
+  deadline: "2025-05-30"
+  timezone: TBA
+  date: 15-19 December 2025
+  place: Nashville, Tennessee, USA
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://middleware-conf.github.io/2025/' target="_blank" >HTML</a>
 
 # - title: IISWC
 #   year: 2024
@@ -338,17 +338,17 @@
 #   sub: [OS,DS,ST,HPC]
 #   note: <b>Call for Papers:</b> <a href='https://wowmon-workshop.github.io/' target="_blank" >HTML</a>
 
-# - title: HiPC
-#   year: 2024
-#   tier: +
-#   id: hipc2024
-#   link: 
-#   deadline: "2024-06-19"
-#   timezone: TBA
-#   date:  December 18 to December 21, 2024
-#   place: Bengaluru, India
-#   sub: [OS,DS,ST,HPC]
-#   note: <b>Call for Papers:</b> <a href='https://hipc.3it.in/papers/' target="_blank" >HTML</a>
+- title: HiPC
+  year: 2025
+  tier: +
+  id: hipc2025
+  link: https://www.hipc.org/
+  deadline: "2025-06-25"
+  timezone: TBA
+  date:  December 17-20, 2025
+  place: Hyderabad, India
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://www.hipc.org/' target="_blank" >HTML</a>
 
 # - title: Sustainable HPC (WS)
 #   year: 2024
