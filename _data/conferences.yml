@@ -86,17 +86,17 @@
 #   sub: [OS,DS,ST,HPC]
 #   note: <b>Call for Papers:</b> <a href='https://ai-perf.github.io/AIPerf2024/' target="_blank" >HTML</a>
 
-- title: HotCloudPerf(Workshop)
-  year: 2025
-  tier: +
-  id: hotcloudperf2025
-  link: https://hotcloudperf.spec.org/2025
-  deadline: "2025-01-27"
-  timezone: Etc/GMT+12
-  date: May 5-9
-  place: York University, Toronto, Canada 
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://hotcloudperf.spec.org/2025' target="_blank" >HTML</a>
+# - title: HotCloudPerf(Workshop)
+#   year: 2025
+#   tier: +
+#   id: hotcloudperf2025
+#   link: https://hotcloudperf.spec.org/2025
+#   deadline: "2025-01-27"
+#   timezone: Etc/GMT+12
+#   date: May 5-9
+#   place: York University, Toronto, Canada 
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://hotcloudperf.spec.org/2025' target="_blank" >HTML</a>
 
 # - title: ESwML(Workshop)
 #   year: 2025
@@ -110,41 +110,41 @@
 #   sub: [OS,DS,ST,HPC]
 #   note: <b>Call for Papers:</b> <a href='https://eswml.github.io/2025/2025.html' target="_blank" >HTML</a>
 
-- title: MODA(Workshop)
-  year: 2025
-  tier: +
-  id: moda2025
-  link:  https://moda.dmi.unibas.ch/
-  deadline: "2025-02-28"
-  timezone: TBA
-  date: June 13
-  place: Hamburg, Germany
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://moda.dmi.unibas.ch/' target="_blank" >HTML</a>
+# - title: MODA(Workshop)
+#   year: 2025
+#   tier: +
+#   id: moda2025
+#   link:  https://moda.dmi.unibas.ch/
+#   deadline: "2025-02-28"
+#   timezone: TBA
+#   date: June 13
+#   place: Hamburg, Germany
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://moda.dmi.unibas.ch/' target="_blank" >HTML</a>
 
-- title: IEEE Cloud
-  year: 2025
-  tier: +
-  id: ieeecloud2025
-  link: https://services.conferences.computer.org/2025/cloud/cloud-call-for-papers/
-  deadline: '2025-03-03'
-  timezone: Etc/GMT+12
-  date: July 7-12
-  place: Helsinki, Finland
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://services.conferences.computer.org/2025/cloud/cloud-call-for-papers/' target="_blank" >HTML</a>
+# - title: IEEE Cloud
+#   year: 2025
+#   tier: +
+#   id: ieeecloud2025
+#   link: https://services.conferences.computer.org/2025/cloud/cloud-call-for-papers/
+#   deadline: '2025-03-03'
+#   timezone: Etc/GMT+12
+#   date: July 7-12
+#   place: Helsinki, Finland
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://services.conferences.computer.org/2025/cloud/cloud-call-for-papers/' target="_blank" >HTML</a>
 
-- title: Euro-Par
-  year: 2025
-  tier: ++
-  id: europar2025
-  link: https://2025.euro-par.org/
-  deadline: '2025-03-05'
-  timezone: Etc/GMT+12
-  date: 25-29 August 2025
-  place: Dresden, Germany
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://2025.euro-par.org/' target="_blank" >HTML</a>
+# - title: Euro-Par
+#   year: 2025
+#   tier: ++
+#   id: europar2025
+#   link: https://2025.euro-par.org/
+#   deadline: '2025-03-05'
+#   timezone: Etc/GMT+12
+#   date: 25-29 August 2025
+#   place: Dresden, Germany
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://2025.euro-par.org/' target="_blank" >HTML</a>
 
 # - title: 🎯EuroMLSys(Workshop)
 #   year: 2024
@@ -568,14 +568,14 @@
 #   sub: [OS,DS,ST]
 #   note: TBA
 
-- title: CCGRID
-  year: 2025
-  tier: +
-  id: ccgrid2025
-  link: https://site.uit.no/ccgrid2025/research-paper/
-  deadline: '2024-12-02'
-  timezone: TBA
-  date: May 19-22, 2025
-  place: Tromsø, Norway
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://site.uit.no/ccgrid2025/research-paper/' target="_blank" >HTML</a>
+# - title: CCGRID
+#   year: 2025
+#   tier: +
+#   id: ccgrid2025
+#   link: https://site.uit.no/ccgrid2025/research-paper/
+#   deadline: '2024-12-02'
+#   timezone: TBA
+#   date: May 19-22, 2025
+#   place: Tromsø, Norway
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://site.uit.no/ccgrid2025/research-paper/' target="_blank" >HTML</a>
