@@ -350,6 +350,18 @@
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://www.hipc.org/' target="_blank" >HTML</a>
 
+- title: JSS
+  year: 2025
+  tier: ++
+  id: jss2025
+  link: https://www.sciencedirect.com/special-issue/320414/intelligent-devops-for-performance-sustainability-and-reliability
+  deadline: "2025-09-30"
+  timezone: TBA
+  date: NA
+  place: NA
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://www.sciencedirect.com/special-issue/320414/intelligent-devops-for-performance-sustainability-and-reliability' target="_blank" >HTML</a>
+
 # - title: Sustainable HPC (WS)
 #   year: 2024
 #   tier: +
