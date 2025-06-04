@@ -350,6 +350,31 @@
   sub: [OS,DS,ST,HPC]
   note: <b>Call for Papers:</b> <a href='https://www.hipc.org/' target="_blank" >HTML</a>
 
+- title: UCC
+  year: 2025
+  tier: +
+  id: ucc2025
+  link: https://ucc-conference.org/
+  deadline: "2025-08-10"
+  timezone: TBA
+  date:  December 1-4, 2025
+  place: Nantes, France
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://ucc-conference.org/' target="_blank" >HTML</a>
+
+- title: IEEE Big Data
+  year: 2025
+  tier: +
+  id: bigdata2025
+  link: https://conferences.cis.um.edu.mo/ieeebigdata2025/cfp.html
+  deadline: '2025-08-29'
+  timezone: TBA
+  date: Dec 8-11, 2025
+  place: Macau, China
+  sub: [OS,DS,ST]
+  note: <b>Call for Papers:</b> <a href='https://conferences.cis.um.edu.mo/ieeebigdata2025/cfp.html' target="_blank" >HTML</a>
+
+
 - title: JSS
   year: 2025
   tier: ++
@@ -421,19 +446,6 @@
 #   place:  San Diego 
 #   sub: [OS,DS,ST]
 #   note: <b>Call for Papers:</b> <a href='https://www.asplos-conference.org/asplos2024/' target="_blank" >HTML</a>
-
-- title: IEEE Big Data
-  year: 2025
-  tier: +
-  id: bigdata2025
-  link: https://conferences.cis.um.edu.mo/ieeebigdata2025/cfp.html
-  deadline: '2025-08-29'
-  timezone: TBA
-  date: Dec 8-11, 2025
-  place: Macau, China
-  sub: [OS,DS,ST]
-  note: <b>Call for Papers:</b> <a href='https://conferences.cis.um.edu.mo/ieeebigdata2025/cfp.html' target="_blank" >HTML</a>
-
 
 # - title: NSDI(Fall)
 #   year: 2024
