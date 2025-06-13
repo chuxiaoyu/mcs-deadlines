@@ -302,17 +302,17 @@
 # #   sub: [OS,DS,ST,HPC]
 # #   note: <b>Call for Papers:</b> <a href='https://2025.eurosys.org/cfp.html' target="_blank" >HTML</a>
 
-- title: Middleware (2nd)
-  year: 2025
-  tier: ++
-  id: middleware2025
-  link: https://middleware-conf.github.io/2025/
-  deadline: "2025-05-30"
-  timezone: TBA
-  date: 15-19 December 2025
-  place: Nashville, Tennessee, USA
-  sub: [OS,DS,ST,HPC]
-  note: <b>Call for Papers:</b> <a href='https://middleware-conf.github.io/2025/' target="_blank" >HTML</a>
+# - title: Middleware (2nd)
+#   year: 2025
+#   tier: ++
+#   id: middleware2025
+#   link: https://middleware-conf.github.io/2025/
+#   deadline: "2025-05-30"
+#   timezone: TBA
+#   date: 15-19 December 2025
+#   place: Nashville, Tennessee, USA
+#   sub: [OS,DS,ST,HPC]
+#   note: <b>Call for Papers:</b> <a href='https://middleware-conf.github.io/2025/' target="_blank" >HTML</a>
 
 # - title: IISWC
 #   year: 2024
@@ -373,6 +373,19 @@
   place: Macau, China
   sub: [OS,DS,ST]
   note: <b>Call for Papers:</b> <a href='https://conferences.cis.um.edu.mo/ieeebigdata2025/cfp.html' target="_blank" >HTML</a>
+
+
+- title: BDCAT
+  year: 2025
+  tier: +
+  id: bdcat2025
+  link: https://bdcat-conference.org/
+  deadline: "2025-09-05"
+  timezone: TBA
+  date:  December 1-4, 2025
+  place: Nantes, France
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://bdcat-conference.org/' target="_blank" >HTML</a>
 
 
 - title: JSS
@@ -484,17 +497,17 @@
 #   sub: [DS,HPC]
 #   note: TBA
 
-# - title: 🎯IPDPS
-#   year: 2024
-#   tier: ++
-#   id: ipdps2024
-#   link: https://www.ipdps.org/ipdps2024/2024-call-for-papers.html
-#   deadline: '2023-10-05'
-#   timezone: Etc/GMT+12
-#   date: 27-31 May, 2024
-#   place: San Francisco 
-#   sub: [DS,HPC]
-#   note: <b>Call for Papers:</b> <a href='https://www.ipdps.org/ipdps2024/2024-call-for-papers.html' target="_blank" >HTML</a>
+- title: IPDPS
+  year: 2026
+  tier: ++
+  id: ipdps2026
+  link: https://www.ipdps.org/ipdps2025/2025-call-for-papers.html
+  deadline: '2025-10-05'
+  timezone: Etc/GMT+12
+  date: May 25 to 29, 2026
+  place: New Orleans · United States
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://www.ipdps.org/ipdps2025/2025-call-for-papers.html' target="_blank" >HTML</a>
 
 # - title: WWW
 #   year: 2024
@@ -532,17 +545,17 @@
 #   sub: [OS,DS,ST]
 #   note: TBA
 
-# - title: 🎯ICPE
-#   year: 2025
-#   tier: +
-#   id: icpe2025
-#   link: https://icpe2025.spec.org/important-dates/
-#   deadline: '2024-11-01'
-#   timezone: Etc/GMT+12
-#   date: May 5-9
-#   place: York University, Toronto, Canada 
-#   sub: [DS,HPC]
-#   note: b>Call for Papers:</b> <a href='https://icpe2025.spec.org/important-dates/' target="_blank" >HTML</a>
+- title: ICPE
+  year: 2026
+  tier: +
+  id: icpe2026
+  link: https://icpe2025.spec.org/important-dates/
+  deadline: '2025-11-01'
+  timezone: Etc/GMT+12
+  date: May 4-8
+  place: Florence, Italy
+  sub: [OS,DS,ST,HPC]
+  note: b>Call for Papers:</b> <a href='https://icpe2025.spec.org/important-dates/' target="_blank" >HTML</a>
 
 # - title: 🎯TCS Amsterdam Marathon
 #   year: 2024
@@ -605,14 +618,14 @@
 #   sub: [OS,DS,ST]
 #   note: TBA
 
-# - title: CCGRID
-#   year: 2025
-#   tier: +
-#   id: ccgrid2025
-#   link: https://site.uit.no/ccgrid2025/research-paper/
-#   deadline: '2024-12-02'
-#   timezone: TBA
-#   date: May 19-22, 2025
-#   place: Tromsø, Norway
-#   sub: [OS,DS,ST,HPC]
-#   note: <b>Call for Papers:</b> <a href='https://site.uit.no/ccgrid2025/research-paper/' target="_blank" >HTML</a>
+- title: CCGRID
+  year: 2026
+  tier: +
+  id: ccgrid2026
+  link: https://ccgrid2026.cdms.westernsydney.edu.au/
+  deadline: '2025-12-01'
+  timezone: TBA
+  date: 18-21 May 2026
+  place: Sydney, Australia
+  sub: [OS,DS,ST,HPC]
+  note: <b>Call for Papers:</b> <a href='https://ccgrid2026.cdms.westernsydney.edu.au/' target="_blank" >HTML</a>
